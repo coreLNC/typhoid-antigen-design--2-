@@ -8,7 +8,7 @@ and other relevant bacteria, as a more specific basis than the Widal test (Niger
 **Status:** fully computational. Nothing here has been tested with patient sera. Sequence specificity is not
 antibody specificity, and gene presence is not expression.
 
-Author: David Ayobami Okeleye (MSc Public Health Biotechnology, University of Ibadan).
+Author: David Ayobami Okeleye (MSc Public Health Biotechnology, University of Ibadan;ImmunoInformatics:Diagnostic Antigen Design-CompChemHub)
 
 ## Main results
 
