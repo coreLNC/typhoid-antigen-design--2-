@@ -1,0 +1,11 @@
+# name	taxid	uniprot_proteome_id (blank = look up reference proteome by taxid)	group
+# groups: nontyphoidal | enterobacterales | other_bacteria | plasmodium | human | typhoidal_related (reported, not counted as cross-reactive)
+Ecoli_K12	83333	UP000000625	enterobacterales
+STm_LT2	99287	UP000001014	nontyphoidal
+SEnt_P125109	550537		nontyphoidal
+Sflexneri_2a_301	198214		enterobacterales
+Kpneumoniae	573		enterobacterales
+Paeruginosa_PAO1	208964	UP000002438	other_bacteria
+Pfalciparum_3D7	36329	UP000001450	plasmodium
+Human	9606	UP000005640	human
+SParatyphiA_9150	295319		typhoidal_related

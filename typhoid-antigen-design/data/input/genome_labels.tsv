@@ -1,0 +1,393 @@
+folder	group	accession	organism	serovar
+confounders	pseudomonas_aeruginosa	GCF_000829885.1	Pseudomonas aeruginosa	
+confounders	pseudomonas_aeruginosa	GCF_001293085.1	Pseudomonas aeruginosa	not applicable
+confounders	pseudomonas_aeruginosa	GCF_001542835.1	Pseudomonas aeruginosa	
+confounders	pseudomonas_aeruginosa	GCF_001750705.1	Pseudomonas aeruginosa	
+confounders	pseudomonas_aeruginosa	GCF_001879525.1	Pseudomonas aeruginosa	
+confounders	pseudomonas_aeruginosa	GCF_002968955.1	Pseudomonas aeruginosa	
+confounders	pseudomonas_aeruginosa	GCF_021497365.2	Pseudomonas aeruginosa	
+confounders	pseudomonas_aeruginosa	GCF_027570615.1	Pseudomonas aeruginosa	
+confounders	pseudomonas_aeruginosa	GCF_036232365.1	Pseudomonas aeruginosa	
+confounders	pseudomonas_aeruginosa	GCF_037287465.1	Pseudomonas aeruginosa	
+confounders	pseudomonas_aeruginosa	GCF_037482125.1	Pseudomonas aeruginosa	
+confounders	pseudomonas_aeruginosa	GCF_041080615.1	Pseudomonas aeruginosa	
+confounders	pseudomonas_aeruginosa	GCF_047782745.1	Pseudomonas aeruginosa	
+confounders	pseudomonas_aeruginosa	GCF_051125645.1	Pseudomonas aeruginosa	
+confounders	pseudomonas_aeruginosa	GCF_053343755.1	Pseudomonas aeruginosa	
+confounders	pseudomonas_aeruginosa	GCF_053360735.1	Pseudomonas aeruginosa	
+confounders	pseudomonas_aeruginosa	GCF_053360755.1	Pseudomonas aeruginosa	
+confounders	pseudomonas_aeruginosa	GCF_054121565.1	Pseudomonas aeruginosa	
+confounders	pseudomonas_aeruginosa	GCF_056324585.1	Pseudomonas aeruginosa	
+confounders	pseudomonas_aeruginosa	GCF_057961515.1	Pseudomonas aeruginosa	
+confounders	shigella	GCF_000092525.1	Shigella sonnei Ss046	
+confounders	shigella	GCF_000783735.2	Shigella flexneri	
+confounders	shigella	GCF_002949535.1	Shigella boydii	
+confounders	shigella	GCF_002949775.1	Shigella dysenteriae	
+confounders	shigella	GCF_002950135.1	Shigella boydii	
+confounders	shigella	GCF_003855135.1	Shigella flexneri	
+confounders	shigella	GCF_007106565.1	Shigella boydii	
+confounders	shigella	GCF_013394555.1	Shigella boydii	
+confounders	shigella	GCF_015475595.1	Shigella dysenteriae	
+confounders	shigella	GCF_022353545.1	Shigella flexneri	
+confounders	shigella	GCF_022354225.1	Shigella flexneri	
+confounders	shigella	GCF_022354305.1	Shigella flexneri	
+confounders	shigella	GCF_022494355.1	Shigella flexneri	
+confounders	shigella	GCF_022494455.1	Shigella flexneri	
+confounders	shigella	GCF_023204675.1	Shigella flexneri	
+confounders	shigella	GCF_030582455.1	Shigella flexneri	
+confounders	shigella	GCF_033870275.1	Shigella flexneri	
+confounders	shigella	GCF_049560315.1	Shigella flexneri	
+confounders	shigella	GCF_054389135.1	Shigella dysenteriae	
+confounders	shigella	GCF_054391815.1	Shigella dysenteriae	
+confounders	klebsiella_pneumoniae	GCF_001022175.1	Klebsiella pneumoniae	
+confounders	klebsiella_pneumoniae	GCF_001701835.2	Klebsiella pneumoniae	
+confounders	klebsiella_pneumoniae	GCF_001902235.1	Klebsiella pneumoniae	
+confounders	klebsiella_pneumoniae	GCF_001902475.1	Klebsiella pneumoniae	
+confounders	klebsiella_pneumoniae	GCF_002180255.1	Klebsiella pneumoniae	
+confounders	klebsiella_pneumoniae	GCF_009661415.2	Klebsiella pneumoniae	
+confounders	klebsiella_pneumoniae	GCF_013805705.1	Klebsiella pneumoniae	
+confounders	klebsiella_pneumoniae	GCF_021137815.1	Klebsiella pneumoniae	
+confounders	klebsiella_pneumoniae	GCF_021137915.1	Klebsiella pneumoniae	
+confounders	klebsiella_pneumoniae	GCF_021655475.1	Klebsiella pneumoniae	
+confounders	klebsiella_pneumoniae	GCF_022789105.2	Klebsiella pneumoniae	
+confounders	klebsiella_pneumoniae	GCF_023518295.1	Klebsiella pneumoniae U-0608239	
+confounders	klebsiella_pneumoniae	GCF_026013275.1	Klebsiella pneumoniae	
+confounders	klebsiella_pneumoniae	GCF_027558835.1	Klebsiella pneumoniae	
+confounders	klebsiella_pneumoniae	GCF_027595585.1	Klebsiella pneumoniae	
+confounders	klebsiella_pneumoniae	GCF_038430215.1	Klebsiella pneumoniae	
+confounders	klebsiella_pneumoniae	GCF_040518045.1	Klebsiella pneumoniae	
+confounders	klebsiella_pneumoniae	GCF_041860965.1	Klebsiella pneumoniae	
+confounders	klebsiella_pneumoniae	GCF_044349345.1	Klebsiella pneumoniae	
+confounders	klebsiella_pneumoniae	GCF_050245385.1	Klebsiella pneumoniae	
+confounders	ecoli	GCF_000212715.2	Escherichia coli UMNK88	
+confounders	ecoli	GCF_000801165.1	Escherichia coli	
+confounders	ecoli	GCF_000952955.1	Escherichia coli	
+confounders	ecoli	GCF_001612495.1	Escherichia coli	
+confounders	ecoli	GCF_001644745.1	Escherichia coli	
+confounders	ecoli	GCF_001651965.2	Escherichia coli O157:H7	
+confounders	ecoli	GCF_001900315.1	Escherichia coli	
+confounders	ecoli	GCF_002951755.1	Escherichia coli	
+confounders	ecoli	GCF_003017555.1	Escherichia coli	
+confounders	ecoli	GCF_003288295.1	Escherichia coli	
+confounders	ecoli	GCF_011045895.1	Escherichia coli	
+confounders	ecoli	GCF_011331215.2	Escherichia coli	
+confounders	ecoli	GCF_013166855.1	Escherichia coli	
+confounders	ecoli	GCF_014075595.1	Escherichia coli	
+confounders	ecoli	GCF_016903315.1	Escherichia coli	
+confounders	ecoli	GCF_017088465.1	Escherichia coli	
+confounders	ecoli	GCF_017639105.1	Escherichia coli	
+confounders	ecoli	GCF_018734065.1	Escherichia coli	
+confounders	ecoli	GCF_024023075.1	Escherichia coli	
+confounders	ecoli	GCF_024499265.1	Escherichia coli	
+confounders	ecoli	GCF_024918195.1	Escherichia coli	
+confounders	ecoli	GCF_026341465.2	Escherichia coli	
+confounders	ecoli	GCF_029636765.1	Escherichia coli	
+confounders	ecoli	GCF_030028135.1	Escherichia coli	
+confounders	ecoli	GCF_034337405.2	Escherichia coli	
+confounders	ecoli	GCF_034422715.1	Escherichia coli	
+confounders	ecoli	GCF_055285715.1	Escherichia coli	
+confounders	ecoli	GCF_059553195.1	Escherichia coli	
+confounders	ecoli	GCF_060472775.1	Escherichia coli	
+confounders	ecoli	GCF_060478135.1	Escherichia coli	
+typhoidal	typhi	GCF_000007545.1	Salmonella enterica subsp. enterica serovar Typhi str. Ty2	Typhi
+typhoidal	typhi	GCF_000195995.1	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Typhi
+typhoidal	typhi	GCF_000245535.1	Salmonella enterica subsp. enterica serovar Typhi str. P-stx-12	Typhi
+typhoidal	typhi	GCF_000385905.1	Salmonella enterica subsp. enterica serovar Typhi str. Ty21a	Typhi
+typhoidal	typhi	GCF_001122625.2	Salmonella enterica subsp. enterica serovar Typhi	Typhi
+typhoidal	typhi	GCF_001134605.2	Salmonella enterica subsp. enterica serovar Typhi	Typhi
+typhoidal	typhi	GCF_001148305.2	Salmonella enterica subsp. enterica serovar Typhi	Typhi
+typhoidal	typhi	GCF_001173525.2	Salmonella enterica subsp. enterica serovar Typhi	Typhi
+typhoidal	typhi	GCF_001302605.1	Salmonella enterica subsp. enterica serovar Typhi	Typhi
+typhoidal	typhi	GCF_001360555.2	Salmonella enterica subsp. enterica serovar Typhi	Typhi
+typhoidal	typhi	GCF_003429465.1	Salmonella enterica subsp. enterica serovar Typhi	Typhi
+typhoidal	typhi	GCF_003716995.1	Salmonella enterica subsp. enterica serovar Typhi	Typhi
+typhoidal	typhi	GCF_003717015.1	Salmonella enterica subsp. enterica serovar Typhi	Typhi
+typhoidal	typhi	GCF_003717035.1	Salmonella enterica subsp. enterica serovar Typhi	Typhi
+typhoidal	typhi	GCF_003717055.1	Salmonella enterica subsp. enterica serovar Typhi	Typhi
+typhoidal	typhi	GCF_003717075.1	Salmonella enterica subsp. enterica serovar Typhi	Typhi
+typhoidal	typhi	GCF_003717095.1	Salmonella enterica subsp. enterica serovar Typhi	Typhi
+typhoidal	typhi	GCF_003717115.1	Salmonella enterica subsp. enterica serovar Typhi	Typhi
+typhoidal	typhi	GCF_003717135.1	Salmonella enterica subsp. enterica serovar Typhi	Typhi
+typhoidal	typhi	GCF_003717215.1	Salmonella enterica subsp. enterica serovar Typhi	Typhi
+typhoidal	typhi	GCF_003717285.1	Salmonella enterica subsp. enterica serovar Typhi	Typhi
+typhoidal	typhi	GCF_003717355.1	Salmonella enterica subsp. enterica serovar Typhi	Typhi
+typhoidal	typhi	GCF_003717395.1	Salmonella enterica subsp. enterica serovar Typhi	Typhi
+typhoidal	typhi	GCF_003717435.1	Salmonella enterica subsp. enterica serovar Typhi	Typhi
+typhoidal	typhi	GCF_003717455.1	Salmonella enterica subsp. enterica serovar Typhi	Typhi
+typhoidal	typhi	GCF_003717475.1	Salmonella enterica subsp. enterica serovar Typhi	Typhi
+typhoidal	typhi	GCF_003717515.1	Salmonella enterica subsp. enterica serovar Typhi	Typhi
+typhoidal	typhi	GCF_003717535.1	Salmonella enterica subsp. enterica serovar Typhi	Typhi
+typhoidal	typhi	GCF_003717575.1	Salmonella enterica subsp. enterica serovar Typhi	Typhi
+typhoidal	typhi	GCF_003717615.1	Salmonella enterica subsp. enterica serovar Typhi	Typhi
+typhoidal	typhi	GCF_003717635.1	Salmonella enterica subsp. enterica serovar Typhi	Typhi
+typhoidal	typhi	GCF_003717655.1	Salmonella enterica subsp. enterica serovar Typhi	Typhi
+typhoidal	typhi	GCF_003717675.1	Salmonella enterica subsp. enterica serovar Typhi	Typhi
+typhoidal	typhi	GCF_003717695.1	Salmonella enterica subsp. enterica serovar Typhi	Typhi
+typhoidal	typhi	GCF_003717715.1	Salmonella enterica subsp. enterica serovar Typhi	Typhi
+typhoidal	typhi	GCF_003717735.1	Salmonella enterica subsp. enterica serovar Typhi	Typhi
+typhoidal	typhi	GCF_003717755.1	Salmonella enterica subsp. enterica serovar Typhi	Typhi
+typhoidal	typhi	GCF_003717775.1	Salmonella enterica subsp. enterica serovar Typhi	Typhi
+typhoidal	typhi	GCF_003717795.1	Salmonella enterica subsp. enterica serovar Typhi	Typhi
+typhoidal	typhi	GCF_003717815.1	Salmonella enterica subsp. enterica serovar Typhi	Typhi
+typhoidal	typhi	GCF_003717835.1	Salmonella enterica subsp. enterica serovar Typhi	Typhi
+typhoidal	typhi	GCF_003717855.1	Salmonella enterica subsp. enterica serovar Typhi	Typhi
+typhoidal	typhi	GCF_003717875.1	Salmonella enterica subsp. enterica serovar Typhi	Typhi
+typhoidal	typhi	GCF_003717895.1	Salmonella enterica subsp. enterica serovar Typhi	Typhi
+typhoidal	typhi	GCF_003717915.1	Salmonella enterica subsp. enterica serovar Typhi	Typhi
+typhoidal	typhi	GCF_003717935.1	Salmonella enterica subsp. enterica serovar Typhi	Typhi
+typhoidal	typhi	GCF_003717955.1	Salmonella enterica subsp. enterica serovar Typhi	Typhi
+typhoidal	typhi	GCF_003717975.1	Salmonella enterica subsp. enterica serovar Typhi	Typhi
+typhoidal	typhi	GCF_003717995.1	Salmonella enterica subsp. enterica serovar Typhi	Typhi
+typhoidal	typhi	GCF_003718015.1	Salmonella enterica subsp. enterica serovar Typhi	Typhi
+typhoidal	typhi	GCF_003718035.1	Salmonella enterica subsp. enterica serovar Typhi	Typhi
+typhoidal	typhi	GCF_003718055.1	Salmonella enterica subsp. enterica serovar Typhi	Typhi
+typhoidal	typhi	GCF_003718075.1	Salmonella enterica subsp. enterica serovar Typhi	Typhi
+typhoidal	typhi	GCF_003718095.1	Salmonella enterica subsp. enterica serovar Typhi	Typhi
+typhoidal	typhi	GCF_003718115.1	Salmonella enterica subsp. enterica serovar Typhi	Typhi
+typhoidal	typhi	GCF_003718135.1	Salmonella enterica subsp. enterica serovar Typhi	Typhi
+typhoidal	typhi	GCF_003718155.1	Salmonella enterica subsp. enterica serovar Typhi	Typhi
+typhoidal	typhi	GCF_003718175.1	Salmonella enterica subsp. enterica serovar Typhi	Typhi
+typhoidal	typhi	GCF_003718195.1	Salmonella enterica subsp. enterica serovar Typhi	Typhi
+typhoidal	typhi	GCF_003718235.1	Salmonella enterica subsp. enterica serovar Typhi	Typhi
+typhoidal	typhi	GCF_003718255.1	Salmonella enterica subsp. enterica serovar Typhi	Typhi
+typhoidal	typhi	GCF_003718275.1	Salmonella enterica subsp. enterica serovar Typhi	Typhi
+typhoidal	typhi	GCF_003718295.1	Salmonella enterica subsp. enterica serovar Typhi	Typhi
+typhoidal	typhi	GCF_003718315.1	Salmonella enterica subsp. enterica serovar Typhi	Typhi
+typhoidal	typhi	GCF_003718355.1	Salmonella enterica subsp. enterica serovar Typhi	Typhi
+typhoidal	typhi	GCF_003718375.1	Salmonella enterica subsp. enterica serovar Typhi	Typhi
+typhoidal	typhi	GCF_003718395.1	Salmonella enterica subsp. enterica serovar Typhi	Typhi
+typhoidal	typhi	GCF_003718415.1	Salmonella enterica subsp. enterica serovar Typhi	Typhi
+typhoidal	typhi	GCF_003718435.1	Salmonella enterica subsp. enterica serovar Typhi	Typhi
+typhoidal	typhi	GCF_003718455.1	Salmonella enterica subsp. enterica serovar Typhi	Typhi
+typhoidal	typhi	GCF_003718475.1	Salmonella enterica subsp. enterica serovar Typhi	Typhi
+typhoidal	typhi	GCF_003718495.1	Salmonella enterica subsp. enterica serovar Typhi	Typhi
+typhoidal	typhi	GCF_003718515.1	Salmonella enterica subsp. enterica serovar Typhi	Typhi
+typhoidal	typhi	GCF_003718535.1	Salmonella enterica subsp. enterica serovar Typhi	Typhi
+typhoidal	typhi	GCF_003718555.1	Salmonella enterica subsp. enterica serovar Typhi	Typhi
+typhoidal	typhi	GCF_003718575.1	Salmonella enterica subsp. enterica serovar Typhi	Typhi
+typhoidal	typhi	GCF_003718595.1	Salmonella enterica subsp. enterica serovar Typhi	Typhi
+typhoidal	typhi	GCF_003718615.1	Salmonella enterica subsp. enterica serovar Typhi	Typhi
+typhoidal	typhi	GCF_003718635.1	Salmonella enterica subsp. enterica serovar Typhi	Typhi
+typhoidal	typhi	GCF_003718655.1	Salmonella enterica subsp. enterica serovar Typhi	Typhi
+typhoidal	typhi	GCF_003719215.1	Salmonella enterica subsp. enterica serovar Typhi	Typhi
+typhoidal	typhi	GCF_003719235.1	Salmonella enterica subsp. enterica serovar Typhi	Typhi
+typhoidal	typhi	GCF_003719255.1	Salmonella enterica subsp. enterica serovar Typhi	Typhi
+typhoidal	typhi	GCF_003719555.1	Salmonella enterica subsp. enterica serovar Typhi	Typhi
+typhoidal	typhi	GCF_004136335.1	Salmonella enterica subsp. enterica serovar Typhi	Typhi
+typhoidal	typhi	GCF_005885835.1	Salmonella enterica subsp. enterica serovar Typhi	Typhi
+typhoidal	typhi	GCF_009734305.1	Salmonella enterica subsp. enterica serovar Typhi	Typhi
+typhoidal	typhi	GCF_019645915.1	Salmonella enterica subsp. enterica serovar Typhi	Typhi
+typhoidal	typhi	GCF_020715345.1	Salmonella enterica subsp. enterica serovar Typhi	Typhi
+typhoidal	typhi	GCF_020715365.1	Salmonella enterica subsp. enterica serovar Typhi	Typhi
+typhoidal	typhi	GCF_028747825.1	Salmonella enterica subsp. enterica serovar Typhi	Typhi
+typhoidal	typhi	GCF_028747845.1	Salmonella enterica subsp. enterica serovar Typhi	Typhi
+typhoidal	typhi	GCF_028747865.1	Salmonella enterica subsp. enterica serovar Typhi	Typhi
+typhoidal	typhi	GCF_028747885.1	Salmonella enterica subsp. enterica serovar Typhi	Typhi
+typhoidal	typhi	GCF_028747905.1	Salmonella enterica subsp. enterica serovar Typhi	Typhi
+typhoidal	typhi	GCF_028891365.1	Salmonella enterica subsp. enterica serovar Typhi	Typhi
+typhoidal	typhi	GCF_028891385.1	Salmonella enterica subsp. enterica serovar Typhi	Typhi
+typhoidal	typhi	GCF_030254665.1	Salmonella enterica subsp. enterica serovar Typhi	Typhi
+typhoidal	typhi	GCF_030254685.1	Salmonella enterica subsp. enterica serovar Typhi	Typhi
+typhoidal	typhi	GCF_030254705.1	Salmonella enterica subsp. enterica serovar Typhi	Typhi
+typhoidal	typhi	GCF_030254725.1	Salmonella enterica subsp. enterica serovar Typhi	Typhi
+typhoidal	typhi	GCF_030254745.1	Salmonella enterica subsp. enterica serovar Typhi	Typhi
+typhoidal	typhi	GCF_030254765.1	Salmonella enterica subsp. enterica serovar Typhi	Typhi
+typhoidal	typhi	GCF_030254785.1	Salmonella enterica subsp. enterica serovar Typhi	Typhi
+typhoidal	typhi	GCF_030254805.1	Salmonella enterica subsp. enterica serovar Typhi	Typhi
+typhoidal	typhi	GCF_039830155.1	Salmonella enterica subsp. enterica serovar Typhi	Typhi
+typhoidal	typhi	GCF_041682025.1	Salmonella enterica subsp. enterica serovar Typhi	Typhi
+typhoidal	typhi	GCF_041682055.1	Salmonella enterica subsp. enterica serovar Typhi	Typhi
+typhoidal	typhi	GCF_041682085.1	Salmonella enterica subsp. enterica serovar Typhi	Typhi
+typhoidal	typhi	GCF_041682155.1	Salmonella enterica subsp. enterica serovar Typhi	Typhi
+typhoidal	typhi	GCF_041871515.1	Salmonella enterica subsp. enterica serovar Typhi	Typhi
+typhoidal	typhi	GCF_041892465.1	Salmonella enterica subsp. enterica serovar Typhi	Typhi
+typhoidal	typhi	GCF_042191485.1	Salmonella enterica subsp. enterica serovar Typhi	Typhi
+typhoidal	typhi	GCF_044999545.1	Salmonella enterica subsp. enterica serovar Typhi	Typhi
+typhoidal	typhi	GCF_044999555.1	Salmonella enterica subsp. enterica serovar Typhi	Typhi
+typhoidal	typhi	GCF_044999565.1	Salmonella enterica subsp. enterica serovar Typhi	Typhi
+typhoidal	typhi	GCF_045000095.1	Salmonella enterica subsp. enterica serovar Typhi	Typhi
+typhoidal	typhi	GCF_047777935.1	Salmonella enterica subsp. enterica serovar Typhi	Typhi
+typhoidal	typhi	GCF_047777945.1	Salmonella enterica subsp. enterica serovar Typhi	Typhi
+typhoidal	typhi	GCF_051903955.1	Salmonella enterica subsp. enterica serovar Typhi	Typhi
+typhoidal	typhi	GCF_051903965.1	Salmonella enterica subsp. enterica serovar Typhi	Typhi
+typhoidal	typhi	GCF_052059855.1	Salmonella enterica subsp. enterica serovar Typhi	Typhi
+typhoidal	typhi	GCF_053048105.1	Salmonella enterica subsp. enterica serovar Typhi	Typhi
+typhoidal	typhi	GCF_054849765.1	Salmonella enterica subsp. enterica serovar Typhi	Typhi
+typhoidal	typhi	GCF_054849775.1	Salmonella enterica subsp. enterica serovar Typhi	Typhi
+typhoidal	typhi	GCF_054849805.1	Salmonella enterica subsp. enterica serovar Typhi	Typhi
+typhoidal	typhi	GCF_058467535.1	Salmonella enterica subsp. enterica serovar Typhi	Typhi
+typhoidal	typhi	GCF_058467595.1	Salmonella enterica subsp. enterica serovar Typhi	Typhi
+typhoidal	typhi	GCF_058467615.1	Salmonella enterica subsp. enterica serovar Typhi	Typhi
+typhoidal	typhi	GCF_060679325.1	Salmonella enterica subsp. enterica serovar Typhi	Typhi
+typhoidal	typhi	GCF_900185485.1	Salmonella enterica subsp. enterica serovar Typhi	Typhi
+typhoidal	typhi	GCF_900205245.1	Salmonella enterica subsp. enterica serovar Typhi	Typhi
+typhoidal	typhi	GCF_900205255.1	Salmonella enterica subsp. enterica serovar Typhi	Typhi
+typhoidal	typhi	GCF_900205265.1	Salmonella enterica subsp. enterica serovar Typhi	Typhi
+typhoidal	typhi	GCF_900205275.1	Salmonella enterica subsp. enterica serovar Typhi	Typhi
+typhoidal	typhi	GCF_900205295.1	Salmonella enterica subsp. enterica serovar Typhi	Typhi
+typhoidal	typhi	GCF_901457615.1	Salmonella enterica subsp. enterica serovar Typhi str. Ty2	Typhi
+typhoidal	typhi	GCF_901457625.1	Salmonella enterica subsp. enterica serovar Typhi str. Ty2	Typhi
+typhoidal	typhi	GCF_940596495.1	Salmonella enterica subsp. enterica serovar Typhi	Typhi
+typhoidal	typhi	GCF_940599845.1	Salmonella enterica subsp. enterica serovar Typhi	Typhi
+typhoidal	typhi	GCF_940618755.1	Salmonella enterica subsp. enterica serovar Typhi	Typhi
+typhoidal	typhi	GCF_940620125.1	Salmonella enterica subsp. enterica serovar Typhi	Typhi
+typhoidal	typhi	GCF_940631035.1	Salmonella enterica subsp. enterica serovar Typhi	Typhi
+typhoidal	paratyphiA	GCF_000011885.1	Salmonella enterica subsp. enterica serovar Paratyphi A str. ATCC 9150	Paratyphi A
+typhoidal	paratyphiA	GCF_000026565.1	Salmonella enterica subsp. enterica serovar Paratyphi A str. AKU_12601	Paratyphi A
+typhoidal	paratyphiA	GCF_000486725.2	Salmonella enterica subsp. enterica serovar Paratyphi A str. ATCC 11511	Paratyphi A
+typhoidal	paratyphiA	GCF_000818075.1	Salmonella enterica subsp. enterica serovar Paratyphi A	Paratyphi A
+typhoidal	paratyphiA	GCF_000818115.1	Salmonella enterica subsp. enterica serovar Paratyphi A	Paratyphi A
+typhoidal	paratyphiA	GCF_002386165.1	Salmonella enterica subsp. enterica serovar Paratyphi A	Paratyphi A
+typhoidal	paratyphiA	GCF_039830165.1	Salmonella enterica subsp. enterica serovar Paratyphi A	Paratyphi A
+typhoidal	paratyphiA	GCF_054073055.1	Salmonella enterica subsp. enterica serovar Paratyphi A	Paratyphi A
+typhoidal	paratyphiA	GCF_060679265.1	Salmonella enterica subsp. enterica serovar Paratyphi A	Paratyphi A
+nontyphoidal	enteritidis	GCF_000625855.1	Salmonella enterica subsp. enterica serovar Enteritidis str. SA20082034	Enteritidis
+nontyphoidal	enteritidis	GCF_000750375.1	Salmonella enterica subsp. enterica serovar Enteritidis	Enteritidis
+nontyphoidal	enteritidis	GCF_000750415.2	Salmonella enterica subsp. enterica serovar Enteritidis	Enteritidis
+nontyphoidal	enteritidis	GCF_000750435.1	Salmonella enterica subsp. enterica serovar Enteritidis	Enteritidis
+nontyphoidal	enteritidis	GCF_001185215.1	Salmonella enterica subsp. enterica serovar Enteritidis	Enteritidis
+nontyphoidal	enteritidis	GCF_001484025.1	Salmonella enterica subsp. enterica serovar Enteritidis	Enteritidis
+nontyphoidal	enteritidis	GCF_001713515.2	Salmonella enterica subsp. enterica serovar Enteritidis	Enteritidis
+nontyphoidal	enteritidis	GCF_001973275.2	Salmonella enterica subsp. enterica serovar Enteritidis	Enteritidis
+nontyphoidal	enteritidis	GCF_002128365.1	Salmonella enterica subsp. enterica serovar Enteritidis	Enteritidis
+nontyphoidal	enteritidis	GCF_002128385.1	Salmonella enterica subsp. enterica serovar Enteritidis	Enteritidis
+nontyphoidal	enteritidis	GCF_002760935.1	Salmonella enterica subsp. enterica serovar Enteritidis	Enteritidis
+nontyphoidal	enteritidis	GCF_002761055.1	Salmonella enterica subsp. enterica serovar Enteritidis	Enteritidis
+nontyphoidal	enteritidis	GCF_002761115.1	Salmonella enterica subsp. enterica serovar Enteritidis	Enteritidis
+nontyphoidal	enteritidis	GCF_002761135.1	Salmonella enterica subsp. enterica serovar Enteritidis	Enteritidis
+nontyphoidal	enteritidis	GCF_002813975.1	Salmonella enterica subsp. enterica serovar Enteritidis	Enteritidis
+nontyphoidal	enteritidis	GCF_002813995.1	Salmonella enterica subsp. enterica serovar Enteritidis	Enteritidis
+nontyphoidal	enteritidis	GCF_003031995.1	Salmonella enterica subsp. enterica serovar Enteritidis	Enteritidis
+nontyphoidal	enteritidis	GCF_003184325.1	Salmonella enterica subsp. enterica serovar Enteritidis	Enteritidis
+nontyphoidal	enteritidis	GCF_003312565.1	Salmonella enterica subsp. enterica serovar Enteritidis	Enteritidis
+nontyphoidal	enteritidis	GCF_003691385.1	Salmonella enterica subsp. enterica serovar Enteritidis	Enteritidis
+nontyphoidal	enteritidis	GCF_005889955.1	Salmonella enterica subsp. enterica serovar Enteritidis	Enteritidis
+nontyphoidal	enteritidis	GCF_006517015.1	Salmonella enterica subsp. enterica serovar Enteritidis	Enteritidis
+nontyphoidal	enteritidis	GCF_009884355.1	Salmonella enterica subsp. enterica serovar Enteritidis	Enteritidis
+nontyphoidal	enteritidis	GCF_012049805.1	Salmonella enterica subsp. enterica serovar Enteritidis	Enteritidis
+nontyphoidal	enteritidis	GCF_012050205.1	Salmonella enterica subsp. enterica serovar Enteritidis	Enteritidis
+nontyphoidal	enteritidis	GCF_012050525.1	Salmonella enterica subsp. enterica serovar Enteritidis	Enteritidis
+nontyphoidal	enteritidis	GCF_015240635.1	Salmonella enterica subsp. enterica serovar Enteritidis	Enteritidis
+nontyphoidal	enteritidis	GCF_020714745.1	Salmonella enterica subsp. enterica serovar Enteritidis	Enteritidis
+nontyphoidal	enteritidis	GCF_020714765.1	Salmonella enterica subsp. enterica serovar Enteritidis	Enteritidis
+nontyphoidal	enteritidis	GCF_020714845.1	Salmonella enterica subsp. enterica serovar Enteritidis	Enteritidis
+nontyphoidal	enteritidis	GCF_020714865.1	Salmonella enterica subsp. enterica serovar Enteritidis	Enteritidis
+nontyphoidal	enteritidis	GCF_020714925.1	Salmonella enterica subsp. enterica serovar Enteritidis	Enteritidis
+nontyphoidal	enteritidis	GCF_020715165.1	Salmonella enterica subsp. enterica serovar Enteritidis	Enteritidis
+nontyphoidal	enteritidis	GCF_020715225.1	Salmonella enterica subsp. enterica serovar Enteritidis	Enteritidis
+nontyphoidal	enteritidis	GCF_020715265.1	Salmonella enterica subsp. enterica serovar Enteritidis	Enteritidis
+nontyphoidal	enteritidis	GCF_020715285.1	Salmonella enterica subsp. enterica serovar Enteritidis	Enteritidis
+nontyphoidal	enteritidis	GCF_020715305.1	Salmonella enterica subsp. enterica serovar Enteritidis	Enteritidis
+nontyphoidal	enteritidis	GCF_020715325.1	Salmonella enterica subsp. enterica serovar Enteritidis	Enteritidis
+nontyphoidal	enteritidis	GCF_020715505.1	Salmonella enterica subsp. enterica serovar Enteritidis	Enteritidis
+nontyphoidal	enteritidis	GCF_030122175.1	Salmonella enterica subsp. enterica serovar Enteritidis	Enteritidis
+nontyphoidal	enteritidis	GCF_030122195.1	Salmonella enterica subsp. enterica serovar Enteritidis	Enteritidis
+nontyphoidal	enteritidis	GCF_030122215.1	Salmonella enterica subsp. enterica serovar Enteritidis	Enteritidis
+nontyphoidal	enteritidis	GCF_031021005.1	Salmonella enterica subsp. enterica serovar Enteritidis	Enteritidis
+nontyphoidal	enteritidis	GCF_031187125.1	Salmonella enterica subsp. enterica serovar Enteritidis	Enteritidis
+nontyphoidal	enteritidis	GCF_032465775.1	Salmonella enterica subsp. enterica serovar Enteritidis	Enteritidis
+nontyphoidal	enteritidis	GCF_045004185.1	Salmonella enterica subsp. enterica serovar Enteritidis	Enteritidis
+nontyphoidal	enteritidis	GCF_045004215.1	Salmonella enterica subsp. enterica serovar Enteritidis	Enteritidis
+nontyphoidal	enteritidis	GCF_045004235.1	Salmonella enterica subsp. enterica serovar Enteritidis	Enteritidis
+nontyphoidal	enteritidis	GCF_045004255.1	Salmonella enterica subsp. enterica serovar Enteritidis	Enteritidis
+nontyphoidal	enteritidis	GCF_045037955.1	Salmonella enterica subsp. enterica serovar Enteritidis	Enteritidis
+nontyphoidal	typhimurium	GCF_000213635.1	Salmonella enterica subsp. enterica serovar Typhimurium str. UK-1	Typhimurium
+nontyphoidal	typhimurium	GCF_001454965.1	Salmonella enterica subsp. enterica serovar Typhimurium	Typhimurium
+nontyphoidal	typhimurium	GCF_001576255.1	Salmonella enterica subsp. enterica serovar Typhimurium	Typhimurium
+nontyphoidal	typhimurium	GCF_001576275.1	Salmonella enterica subsp. enterica serovar Typhimurium	Typhimurium
+nontyphoidal	typhimurium	GCF_001623825.2	Salmonella enterica subsp. enterica serovar Typhimurium str. CDC H2662	Typhimurium
+nontyphoidal	typhimurium	GCF_001623845.1	Salmonella enterica subsp. enterica serovar Typhimurium str. USDA-ARS-USMARC-1896	Typhimurium
+nontyphoidal	typhimurium	GCF_001756025.2	Salmonella enterica subsp. enterica serovar Typhimurium	Typhimurium
+nontyphoidal	typhimurium	GCF_001989635.1	Salmonella enterica subsp. enterica serovar Typhimurium	Typhimurium
+nontyphoidal	typhimurium	GCF_002209225.1	Salmonella enterica subsp. enterica serovar Typhimurium	Typhimurium
+nontyphoidal	typhimurium	GCF_002947135.1	Salmonella enterica subsp. enterica serovar Typhimurium	Typhimurium
+nontyphoidal	typhimurium	GCF_002984285.1	Salmonella enterica subsp. enterica serovar Typhimurium	Typhimurium
+nontyphoidal	typhimurium	GCF_003030285.2	Salmonella enterica subsp. enterica serovar Typhimurium	Typhimurium
+nontyphoidal	typhimurium	GCF_003177235.1	Salmonella enterica subsp. enterica serovar Typhimurium	Typhimurium
+nontyphoidal	typhimurium	GCF_003986675.1	Salmonella enterica subsp. enterica serovar Typhimurium var. 5-	Typhimurium var. 5-
+nontyphoidal	typhimurium	GCF_004324015.2	Salmonella enterica subsp. enterica serovar Typhimurium	Typhimurium
+nontyphoidal	typhimurium	GCF_004324095.2	Salmonella enterica subsp. enterica serovar Typhimurium	Typhimurium
+nontyphoidal	typhimurium	GCF_004324135.2	Salmonella enterica subsp. enterica serovar Typhimurium	Typhimurium
+nontyphoidal	typhimurium	GCF_004324245.2	Salmonella enterica subsp. enterica serovar Typhimurium	Typhimurium
+nontyphoidal	typhimurium	GCF_004324275.2	Salmonella enterica subsp. enterica serovar Typhimurium	Typhimurium
+nontyphoidal	typhimurium	GCF_004337735.2	Salmonella enterica subsp. enterica serovar Typhimurium	Typhimurium
+nontyphoidal	typhimurium	GCF_004683925.1	Salmonella enterica subsp. enterica serovar Typhimurium	Typhimurium
+nontyphoidal	typhimurium	GCF_004792435.1	Salmonella enterica subsp. enterica serovar Typhimurium	Typhimurium
+nontyphoidal	typhimurium	GCF_005885855.1	Salmonella enterica subsp. enterica serovar Typhimurium	Typhimurium
+nontyphoidal	typhimurium	GCF_005885875.1	Salmonella enterica subsp. enterica serovar Typhimurium	Typhimurium
+nontyphoidal	typhimurium	GCF_005885895.1	Salmonella enterica subsp. enterica serovar Typhimurium	Typhimurium
+nontyphoidal	typhimurium	GCF_006088735.1	Salmonella enterica subsp. enterica serovar Typhimurium	Typhimurium
+nontyphoidal	typhimurium	GCF_009497835.1	Salmonella enterica subsp. enterica serovar Typhimurium	Typhimurium
+nontyphoidal	typhimurium	GCF_012050025.1	Salmonella enterica subsp. enterica serovar Typhimurium	Typhimurium
+nontyphoidal	typhimurium	GCF_012051385.1	Salmonella enterica subsp. enterica serovar Typhimurium	Typhimurium
+nontyphoidal	typhimurium	GCF_012051625.1	Salmonella enterica subsp. enterica serovar Typhimurium	Typhimurium
+nontyphoidal	typhimurium	GCF_012530215.1	Salmonella enterica subsp. enterica serovar Typhimurium	Typhimurium
+nontyphoidal	typhimurium	GCF_013206965.1	Salmonella enterica subsp. enterica serovar Typhimurium	Typhimurium
+nontyphoidal	typhimurium	GCF_013207105.1	Salmonella enterica subsp. enterica serovar Typhimurium	Typhimurium
+nontyphoidal	typhimurium	GCF_013416235.1	Salmonella enterica subsp. enterica serovar Typhimurium	Typhimurium
+nontyphoidal	typhimurium	GCF_014250355.1	Salmonella enterica subsp. enterica serovar Typhimurium	Typhimurium
+nontyphoidal	typhimurium	GCF_014334155.1	Salmonella enterica subsp. enterica serovar Typhimurium	Typhimurium
+nontyphoidal	typhimurium	GCF_015052745.1	Salmonella enterica subsp. enterica serovar Typhimurium	Typhimurium
+nontyphoidal	typhimurium	GCF_015074905.1	Salmonella enterica subsp. enterica serovar Typhimurium	Typhimurium
+nontyphoidal	typhimurium	GCF_016454365.1	Salmonella enterica subsp. enterica serovar Typhimurium	Typhimurium
+nontyphoidal	typhimurium	GCF_016454445.1	Salmonella enterica subsp. enterica serovar Typhimurium	Typhimurium
+nontyphoidal	typhimurium	GCF_016454605.1	Salmonella enterica subsp. enterica serovar Typhimurium	Typhimurium
+nontyphoidal	typhimurium	GCF_016952595.1	Salmonella enterica subsp. enterica serovar Typhimurium	Typhimurium
+nontyphoidal	typhimurium	GCF_018310435.1	Salmonella enterica subsp. enterica serovar Typhimurium	Typhimurium
+nontyphoidal	typhimurium	GCF_018326605.1	Salmonella enterica subsp. enterica serovar Typhimurium	Typhimurium
+nontyphoidal	typhimurium	GCF_020714685.1	Salmonella enterica subsp. enterica serovar Typhimurium	Typhi
+nontyphoidal	typhimurium	GCF_020715445.1	Salmonella enterica subsp. enterica serovar Typhimurium	Typhimurium
+nontyphoidal	typhimurium	GCF_020715485.1	Salmonella enterica subsp. enterica serovar Typhimurium	Typhimurium
+nontyphoidal	typhimurium	GCF_020783475.1	Salmonella enterica subsp. enterica serovar Typhimurium	Typhimurium
+nontyphoidal	typhimurium	GCF_024266425.1	Salmonella enterica subsp. enterica serovar Typhimurium	Typhimurium
+nontyphoidal	typhimurium	GCF_054881025.1	Salmonella enterica subsp. enterica serovar Typhimurium var. monophasic 4,[5],12:i:-	Typhimurium var. monophasic 4,[5],12:i:-
+nontyphoidal	enterica_mixed	GCF_000439415.2	Salmonella enterica subsp. enterica serovar Bareilly str. CFSAN000189	Bareilly
+nontyphoidal	enterica_mixed	GCF_000748245.2	Salmonella enterica subsp. enterica serovar Bareilly str. CFSAN000212	Bareilly
+nontyphoidal	enterica_mixed	GCF_000750375.1	Salmonella enterica subsp. enterica serovar Enteritidis	Enteritidis
+nontyphoidal	enterica_mixed	GCF_001185215.1	Salmonella enterica subsp. enterica serovar Enteritidis	Enteritidis
+nontyphoidal	enterica_mixed	GCF_001620115.1	Salmonella enterica subsp. enterica serovar Anatum str. USDA-ARS-USMARC-1736	Anatum
+nontyphoidal	enterica_mixed	GCF_001620225.1	Salmonella enterica subsp. enterica serovar Anatum str. USDA-ARS-USMARC-1676	Anatum
+nontyphoidal	enterica_mixed	GCF_001628755.1	Salmonella enterica subsp. diarizonae	60:r:z
+nontyphoidal	enterica_mixed	GCF_002507865.2	Salmonella enterica	Manchester
+nontyphoidal	enterica_mixed	GCF_003324935.1	Salmonella enterica	
+nontyphoidal	enterica_mixed	GCF_003515965.1	Salmonella enterica	
+nontyphoidal	enterica_mixed	GCF_003717285.1	Salmonella enterica subsp. enterica serovar Typhi	Typhi
+nontyphoidal	enterica_mixed	GCF_003717435.1	Salmonella enterica subsp. enterica serovar Typhi	Typhi
+nontyphoidal	enterica_mixed	GCF_003717515.1	Salmonella enterica subsp. enterica serovar Typhi	Typhi
+nontyphoidal	enterica_mixed	GCF_003856755.1	Salmonella enterica subsp. enterica serovar Virchow	Virchow
+nontyphoidal	enterica_mixed	GCF_004847745.1	Salmonella enterica subsp. enterica serovar Bareilly str. CFSAN000961	Bareilly
+nontyphoidal	enterica_mixed	GCF_004919345.1	Salmonella enterica subsp. enterica serovar 1,4,[5],12:i:-	1,4,[5],12:i:-
+nontyphoidal	enterica_mixed	GCF_006165105.1	Salmonella enterica subsp. enterica serovar Agona	Agona
+nontyphoidal	enterica_mixed	GCF_006384195.1	Salmonella enterica subsp. enterica serovar Typhimurium	Typhimurium
+nontyphoidal	enterica_mixed	GCF_006517075.1	Salmonella enterica subsp. enterica serovar Indiana	Indiana
+nontyphoidal	enterica_mixed	GCF_008386295.1	Salmonella enterica	
+nontyphoidal	enterica_mixed	GCF_009648755.1	Salmonella enterica subsp. enterica serovar Bareilly str. CFSAN000669	Bareilly
+nontyphoidal	enterica_mixed	GCF_012052605.1	Salmonella enterica subsp. enterica serovar Indiana	Indiana
+nontyphoidal	enterica_mixed	GCF_019469485.1	Salmonella enterica	
+nontyphoidal	enterica_mixed	GCF_019969195.1	Salmonella enterica	
+nontyphoidal	enterica_mixed	GCF_021266365.1	Salmonella enterica subsp. enterica serovar Kentucky	Kentucky
+nontyphoidal	enterica_mixed	GCF_023330785.1	Salmonella enterica	
+nontyphoidal	enterica_mixed	GCF_024364885.1	Salmonella enterica	
+nontyphoidal	enterica_mixed	GCF_028747845.1	Salmonella enterica subsp. enterica serovar Typhi	Typhi
+nontyphoidal	enterica_mixed	GCF_028893315.1	Salmonella enterica subsp. enterica serovar Dublin	Dublin
+nontyphoidal	enterica_mixed	GCF_030122515.1	Salmonella enterica subsp. enterica serovar Muenchen	Muenchen
+nontyphoidal	enterica_mixed	GCF_030505955.1	Salmonella enterica subsp. enterica serovar Schwarzengrund	Schwarzengrund
+nontyphoidal	enterica_mixed	GCF_031039735.1	Salmonella enterica subsp. enterica	
+nontyphoidal	enterica_mixed	GCF_034447935.1	Salmonella enterica subsp. enterica serovar Abortusovis	Abortusovis
+nontyphoidal	enterica_mixed	GCF_037099745.1	Salmonella enterica subsp. enterica serovar Wandsworth	Wandsworth
+nontyphoidal	enterica_mixed	GCF_037826765.1	Salmonella enterica subsp. enterica serovar 4,[5],12:i:-	4,[5],12:i:-
+nontyphoidal	enterica_mixed	GCF_041080895.1	Salmonella enterica subsp. enterica serovar Typhimurium	Typhimurium
+nontyphoidal	enterica_mixed	GCF_041412145.1	Salmonella enterica subsp. enterica	
+nontyphoidal	enterica_mixed	GCF_042184765.1	Salmonella enterica subsp. enterica serovar Typhimurium	Typhimurium
+nontyphoidal	enterica_mixed	GCF_042997225.1	Salmonella enterica subsp. enterica serovar Typhimurium	Typhimurium
+nontyphoidal	enterica_mixed	GCF_045344065.1	Salmonella enterica subsp. enterica serovar 4,[5],12:i:-	4,[5],12:i:-
+nontyphoidal	enterica_mixed	GCF_048016565.1	Salmonella enterica subsp. enterica serovar Dublin	Dublin
+nontyphoidal	enterica_mixed	GCF_048296835.1	Salmonella enterica subsp. enterica serovar Infantis	Infantis
+nontyphoidal	enterica_mixed	GCF_049187565.1	Salmonella enterica subsp. enterica serovar Typhimurium	Typhimurium
+nontyphoidal	enterica_mixed	GCF_049618795.1	Salmonella enterica subsp. enterica serovar Typhimurium	Typhimurium
+nontyphoidal	enterica_mixed	GCF_052975165.1	Salmonella enterica	
+nontyphoidal	enterica_mixed	GCF_053834715.1	Salmonella enterica subsp. enterica serovar Infantis	Infantis
+nontyphoidal	enterica_mixed	GCF_053834785.1	Salmonella enterica subsp. enterica serovar Infantis	Infantis
+nontyphoidal	enterica_mixed	GCF_058494475.1	Salmonella enterica	
+nontyphoidal	enterica_mixed	GCF_059613905.1	Salmonella enterica	
+nontyphoidal	enterica_mixed	GCF_060434885.1	Salmonella enterica subsp. enterica serovar Nima	Nima

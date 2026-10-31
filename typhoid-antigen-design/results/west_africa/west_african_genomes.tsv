@@ -1,0 +1,433 @@
+accession	organism	serovar	strain	country	geo_loc_name	collection_date	assembly_level	release_date	biosample	source_file
+GCF_001085525.1	Salmonella enterica subsp. enterica serovar Typhi	Not known	E98-6926	Mauritania	Mauritania	1998	Scaffold	2015-07-10	SAMEA1930147	summ_typhi.jsonl
+GCF_001089625.1	Salmonella enterica subsp. enterica serovar Typhi	Not known	07-4565	Cote d'Ivoire	Cote d'Ivoire	2007	Scaffold	2015-07-10	SAMEA1930221	summ_typhi.jsonl
+GCF_001092585.1	Salmonella enterica subsp. enterica serovar Typhi	Not known	07-5494	Cote d'Ivoire	Cote d'Ivoire	2007	Contig	2015-07-10	SAMEA1930223	summ_typhi.jsonl
+GCF_001110425.1	Salmonella enterica subsp. enterica serovar Typhi	Not known	04-0339	Togo	Togo	2004	Contig	2015-07-10	SAMEA1930204	summ_typhi.jsonl
+GCF_001111385.1	Salmonella enterica subsp. enterica serovar Typhi	Not known	E01-1811	Mali	Mali	2001	Contig	2015-07-10	SAMEA1930179	summ_typhi.jsonl
+GCF_001112185.1	Salmonella enterica subsp. enterica serovar Typhi	Not known	MDUST108	Liberia	Liberia	2007	Scaffold	2015-07-10	SAMEA2159311	summ_typhi.jsonl
+GCF_001119805.1	Salmonella enterica subsp. enterica serovar Typhi	Not known	E02-1739	Benin	Benin	2002	Contig	2015-07-10	SAMEA1930196	summ_typhi.jsonl
+GCF_001137065.1	Salmonella enterica subsp. enterica serovar Typhi	Not known	E99-6478	Guinea	Guinea	1999	Contig	2015-07-10	SAMEA1930155	summ_typhi.jsonl
+GCF_001156885.1	Salmonella enterica subsp. enterica serovar Typhi	Not known	06-6055	Burkina Faso	Burkina Faso	2006	Scaffold	2015-07-10	SAMEA1930214	summ_typhi.jsonl
+GCF_001158025.1	Salmonella enterica subsp. enterica serovar Typhi	Not known	08-10571	Mali	Mali	2008	Scaffold	2015-07-10	SAMEA1930227	summ_typhi.jsonl
+GCF_001159785.1	Salmonella enterica subsp. enterica serovar Typhi	Not known	09-8774	Benin	Benin	2009	Contig	2015-07-10	SAMEA1930255	summ_typhi.jsonl
+GCF_001162945.1	Salmonella enterica subsp. enterica serovar Typhi	Not known	06-1510	Burkina Faso	Burkina Faso	2006	Contig	2015-07-10	SAMEA1930210	summ_typhi.jsonl
+GCF_001166665.1	Salmonella enterica subsp. enterica serovar Typhi	Not known	06-7490	Togo	Togo	2006	Contig	2015-07-10	SAMEA1930216	summ_typhi.jsonl
+GCF_001171125.1	Salmonella enterica subsp. enterica serovar Typhi	Not known	09-4821	Guinea	Guinea	2009	Scaffold	2015-07-09	SAMEA1930251	summ_typhi.jsonl
+GCF_001356955.1	Salmonella enterica subsp. enterica serovar Typhi	Not known	E98-2107	Senegal	Senegal	1998	Contig	2015-04-22	SAMEA1930145	summ_typhi.jsonl
+GCF_001356995.1	Salmonella enterica subsp. enterica serovar Typhi	Not known	E99-1028	Senegal	Senegal	1999	Contig	2015-04-22	SAMEA1930150	summ_typhi.jsonl
+GCF_001357055.1	Salmonella enterica subsp. enterica serovar Typhi	Not known	E99-6359	Mali	Mali	1999	Contig	2015-04-22	SAMEA1930154	summ_typhi.jsonl
+GCF_001357155.1	Salmonella enterica subsp. enterica serovar Typhi	Not known	E00-3201	Mali	Mali	2000	Scaffold	2015-04-22	SAMEA1930165	summ_typhi.jsonl
+GCF_001357175.1	Salmonella enterica subsp. enterica serovar Typhi	Not known	E01-7101	Togo	Togo	2001	Contig	2015-04-22	SAMEA1930166	summ_typhi.jsonl
+GCF_001357195.1	Salmonella enterica subsp. enterica serovar Typhi	Not known	E02-0530	Nigeria	Nigeria	2002	Scaffold	2015-04-01	SAMEA1930167	summ_typhi.jsonl
+GCF_001357215.1	Salmonella enterica subsp. enterica serovar Typhi	Not known	E00-6599	Cape Verde	Cape Verde	2000	Scaffold	2015-04-22	SAMEA1930169	summ_typhi.jsonl
+GCF_001357315.1	Salmonella enterica subsp. enterica serovar Typhi	Not known	E99-9082	Niger	Niger	1999	Scaffold	2015-04-22	SAMEA1930182	summ_typhi.jsonl
+GCF_001357415.1	Salmonella enterica subsp. enterica serovar Typhi	Not known	04-6845	Benin	Benin	2004	Scaffold	2015-04-22	SAMEA1930205	summ_typhi.jsonl
+GCF_001357435.1	Salmonella enterica subsp. enterica serovar Typhi	Not known	04-7167	Benin	Benin	2004	Scaffold	2015-07-24	SAMEA1930206	summ_typhi.jsonl
+GCF_001357475.1	Salmonella enterica subsp. enterica serovar Typhi	Not known	06-1513	Burkina Faso	Burkina Faso	2006	Scaffold	2015-04-22	SAMEA1930211	summ_typhi.jsonl
+GCF_001357515.1	Salmonella enterica subsp. enterica serovar Typhi	Not known	06-6673	Cote d'Ivoire	Cote d'Ivoire	2006	Scaffold	2015-04-22	SAMEA1930215	summ_typhi.jsonl
+GCF_001357615.1	Salmonella enterica subsp. enterica serovar Typhi	Not known	08-4327	Cote d'Ivoire	Cote d'Ivoire	2008	Contig	2015-04-22	SAMEA1930224	summ_typhi.jsonl
+GCF_001357955.1	Salmonella enterica subsp. enterica serovar Typhi	Not known	09-5232	Mauritania	Mauritania	2009	Contig	2015-04-22	SAMEA1930253	summ_typhi.jsonl
+GCF_001357975.1	Salmonella enterica subsp. enterica serovar Typhi	Not known	09-8993	Nigeria	Nigeria	2009	Scaffold	2015-04-22	SAMEA1930256	summ_typhi.jsonl
+GCF_021373475.1	Salmonella enterica subsp. enterica serovar Typhi	Typhi	NE729	Nigeria	Nigeria:Jos	2018-08-31	Contig	2022-01-05	SAMN16865207	summ_typhi.jsonl
+GCF_021373515.1	Salmonella enterica subsp. enterica serovar Typhi	Typhi	NE728	Nigeria	Nigeria:Jos	2018-08-31	Contig	2022-01-05	SAMN16865206	summ_typhi.jsonl
+GCF_048589405.1	Salmonella enterica subsp. enterica serovar Typhi	Typhi	PO187	Nigeria	Nigeria	not applicable	Contig	2025-03-16	SAMN45204685	summ_typhi.jsonl
+GCF_048589525.1	Salmonella enterica subsp. enterica serovar Typhi	Typhi	PO227	Nigeria	Nigeria	not applicable	Contig	2025-03-16	SAMN45204678	summ_typhi.jsonl
+GCF_048589545.1	Salmonella enterica subsp. enterica serovar Typhi	Typhi	PO260	Nigeria	Nigeria	not applicable	Contig	2025-03-16	SAMN45204679	summ_typhi.jsonl
+GCF_048589705.1	Salmonella enterica subsp. enterica serovar Typhi	Typhi	PO293	Nigeria	Nigeria	not applicable	Contig	2025-03-16	SAMN45204670	summ_typhi.jsonl
+GCF_048589725.1	Salmonella enterica subsp. enterica serovar Typhi	Typhi	PO107	Nigeria	Nigeria	not applicable	Contig	2025-03-16	SAMN45204668	summ_typhi.jsonl
+GCF_048589745.1	Salmonella enterica subsp. enterica serovar Typhi	Typhi	PO132	Nigeria	Nigeria	not applicable	Contig	2025-03-16	SAMN45204669	summ_typhi.jsonl
+GCF_048589785.1	Salmonella enterica subsp. enterica serovar Typhi	Typhi	PO30	Nigeria	Nigeria	not applicable	Contig	2025-03-16	SAMN45204666	summ_typhi.jsonl
+GCF_048590045.1	Salmonella enterica subsp. enterica serovar Typhi	Typhi	PO 1747	Nigeria	Nigeria	not applicable	Contig	2025-03-16	SAMN45204654	summ_typhi.jsonl
+GCF_052371855.1	Salmonella enterica subsp. enterica serovar Typhi	Typhi	UG27	Ghana	Ghana	2023-03-10	Contig	2025-08-30	SAMN50736779	summ_typhi.jsonl
+GCF_052371875.1	Salmonella enterica subsp. enterica serovar Typhi	Typhi	UG26	Ghana	Ghana	2023-03-10	Contig	2025-08-30	SAMN50736778	summ_typhi.jsonl
+GCF_052371895.1	Salmonella enterica subsp. enterica serovar Typhi	Typhi	UG24	Ghana	Ghana	2023-03-10	Contig	2025-08-30	SAMN50736776	summ_typhi.jsonl
+GCF_052372015.1	Salmonella enterica subsp. enterica serovar Typhi	Typhi	UG17	Ghana	Ghana	2023-03-10	Contig	2025-08-30	SAMN50736770	summ_typhi.jsonl
+GCF_052372315.1	Salmonella enterica subsp. enterica serovar Typhi	Typhi	UG02	Ghana	Ghana	2023-03-10	Contig	2025-08-30	SAMN50736755	summ_typhi.jsonl
+GCF_052372335.1	Salmonella enterica subsp. enterica serovar Typhi	Typhi	UG01	Ghana	Ghana	2023-03-10	Contig	2025-08-30	SAMN50736754	summ_typhi.jsonl
+GCF_900017235.1	Salmonella enterica subsp. enterica serovar Typhi	4.1.1	PO_1110	Nigeria	Nigeria: Abuja	2010	Scaffold	2016-02-10	SAMEA2547756	summ_typhi.jsonl
+GCF_900017245.1	Salmonella enterica subsp. enterica serovar Typhi	4.1.0	PO_1232	Nigeria	Nigeria: Abuja	2010	Scaffold	2016-02-10	SAMEA2547762	summ_typhi.jsonl
+GCF_900017255.1	Salmonella enterica subsp. enterica serovar Typhi	2.2.0	3135STDY5861337	Nigeria	Nigeria: Outskirts of Abuja	2013	Scaffold	2016-02-10	SAMEA2603191	summ_typhi.jsonl
+GCF_900018595.1	Salmonella enterica subsp. enterica serovar Typhi	3.1.1	3135STDY5861304	Nigeria	Nigeria: Outskirts of Abuja	2013	Scaffold	2016-02-10	SAMEA2603128	summ_typhi.jsonl
+GCF_900018605.1	Salmonella enterica subsp. enterica serovar Typhi	3.1.1	3135STDY5861306	Nigeria	Nigeria: Outskirts of Abuja	2013	Scaffold	2016-02-10	SAMEA2603133	summ_typhi.jsonl
+GCF_900018615.1	Salmonella enterica subsp. enterica serovar Typhi	3.1.1	3135STDY5861312	Nigeria	Nigeria: Outskirts of Abuja	2013	Scaffold	2016-02-10	SAMEA2603144	summ_typhi.jsonl
+GCF_900018625.1	Salmonella enterica subsp. enterica serovar Typhi	2.3.1	3135STDY5861342	Nigeria	Nigeria: Outskirts of Abuja	2013	Scaffold	2016-02-11	SAMEA2603200	summ_typhi.jsonl
+GCF_900018635.1	Salmonella enterica subsp. enterica serovar Typhi	3.1.1	3135STDY5861368	Nigeria	Nigeria: Outskirts of Abuja	2013	Scaffold	2016-02-10	SAMEA2603253	summ_typhi.jsonl
+GCF_900018645.1	Salmonella enterica subsp. enterica serovar Typhi	3.1.1	3135STDY5861243	Nigeria	Nigeria: Outskirts of Abuja	2012	Scaffold	2016-02-10	SAMEA2603192	summ_typhi.jsonl
+GCF_900018655.1	Salmonella enterica subsp. enterica serovar Typhi	3.1.1	3135STDY5861251	Nigeria	Nigeria: Outskirts of Abuja	2013	Scaffold	2016-02-10	SAMEA2603206	summ_typhi.jsonl
+GCF_900018665.1	Salmonella enterica subsp. enterica serovar Typhi	2.1.0	3135STDY5861272	Nigeria	Nigeria: Abuja	2011	Scaffold	2016-02-10	SAMEA2603243	summ_typhi.jsonl
+GCF_900022555.1	Salmonella enterica subsp. enterica serovar Typhi	2.2.0	3135STDY5861289	Nigeria	Nigeria: Outskirts of Abuja	2013	Scaffold	2016-02-10	SAMEA2603100	summ_typhi.jsonl
+GCF_900022565.1	Salmonella enterica subsp. enterica serovar Typhi	3.1.1	3135STDY5861228	Nigeria	Nigeria: Outskirts of Abuja	2013	Scaffold	2016-02-10	SAMEA2603164	summ_typhi.jsonl
+GCF_900024935.1	Salmonella enterica subsp. enterica serovar Typhi	3.1.1	3135STDY5861319	Nigeria	Nigeria: Outskirts of Abuja	2013	Scaffold	2016-02-10	SAMEA2603157	summ_typhi.jsonl
+GCF_900024945.1	Salmonella enterica subsp. enterica serovar Typhi	3.1.1	3135STDY5861229	Nigeria	Nigeria: Outskirts of Abuja	2013	Scaffold	2016-02-10	SAMEA2603166	summ_typhi.jsonl
+GCF_900024955.1	Salmonella enterica subsp. enterica serovar Typhi	3.1.1	3135STDY5861230	Nigeria	Nigeria: Abuja	2010	Scaffold	2016-02-10	SAMEA2603168	summ_typhi.jsonl
+GCF_900029285.1	Salmonella enterica subsp. enterica serovar Typhi	3.1.1	PO_30	Nigeria	Nigeria: Abuja	2008	Scaffold	2016-02-10	SAMEA2547720	summ_typhi.jsonl
+GCF_900029295.1	Salmonella enterica subsp. enterica serovar Typhi	3.1.1	PO_771	Nigeria	Nigeria: Abuja	2009	Scaffold	2016-02-10	SAMEA2547744	summ_typhi.jsonl
+GCF_900029305.1	Salmonella enterica subsp. enterica serovar Typhi	3.1.1	PO_1101	Nigeria	Nigeria: Abuja	2010	Scaffold	2016-02-11	SAMEA2547754	summ_typhi.jsonl
+GCF_900029315.1	Salmonella enterica subsp. enterica serovar Typhi	3.1.1	PO_1210	Nigeria	Nigeria: Abuja	2010	Scaffold	2016-02-10	SAMEA2547760	summ_typhi.jsonl
+GCF_900029325.1	Salmonella enterica subsp. enterica serovar Typhi	3.1.1	PO_1242	Nigeria	Nigeria: Abuja	2010	Scaffold	2016-02-10	SAMEA2547763	summ_typhi.jsonl
+GCF_900031555.1	Salmonella enterica subsp. enterica serovar Typhi	2.2.0	3135STDY5861280	Nigeria	Nigeria: Outskirts of Abuja	2013	Scaffold	2016-02-10	SAMEA2603081	summ_typhi.jsonl
+GCF_900031565.1	Salmonella enterica subsp. enterica serovar Typhi	2.2.0	3135STDY5861290	Nigeria	Nigeria: Outskirts of Abuja	2013	Scaffold	2016-02-10	SAMEA2603102	summ_typhi.jsonl
+GCF_900031575.1	Salmonella enterica subsp. enterica serovar Typhi	3.1.1	3135STDY5861314	Nigeria	Nigeria: Outskirts of Abuja	2013	Scaffold	2016-02-10	SAMEA2603148	summ_typhi.jsonl
+GCF_900031585.1	Salmonella enterica subsp. enterica serovar Typhi	3.1.1	3135STDY5861351	Nigeria	Nigeria: Outskirts of Abuja	2013	Scaffold	2016-02-10	SAMEA2603218	summ_typhi.jsonl
+GCF_900031595.1	Salmonella enterica subsp. enterica serovar Typhi	2.2.0	3135STDY5861253	Nigeria	Nigeria: Outskirts of Abuja	2013	Scaffold	2016-02-10	SAMEA2603210	summ_typhi.jsonl
+GCF_900031605.1	Salmonella enterica subsp. enterica serovar Typhi	2.1.0	3135STDY5861254	Nigeria	Nigeria: Abuja	2010	Scaffold	2016-02-10	SAMEA2603212	summ_typhi.jsonl
+GCF_900031615.1	Salmonella enterica subsp. enterica serovar Typhi	3.1.1	3135STDY5861256	Nigeria	Nigeria: Abuja	2011	Scaffold	2016-02-10	SAMEA2603215	summ_typhi.jsonl
+GCF_900031625.1	Salmonella enterica subsp. enterica serovar Typhi	3.1.1	3135STDY5861260	Nigeria	Nigeria: Outskirts of Abuja	2013	Scaffold	2016-02-10	SAMEA2603223	summ_typhi.jsonl
+GCF_900031635.1	Salmonella enterica subsp. enterica serovar Typhi	3.1.1	3135STDY5861262	Nigeria	Nigeria: Abuja	2010	Scaffold	2016-02-10	SAMEA2603227	summ_typhi.jsonl
+GCF_900033705.1	Salmonella enterica subsp. enterica serovar Typhi	0.0.3	PO_1102	Nigeria	Nigeria: Abuja	2010	Scaffold	2016-02-10	SAMEA2547755	summ_typhi.jsonl
+GCF_900033715.1	Salmonella enterica subsp. enterica serovar Typhi	3.1.1	3135STDY5861213	Nigeria	Nigeria: Outskirts of Abuja	2013	Scaffold	2016-02-10	SAMEA2603136	summ_typhi.jsonl
+GCF_900033725.1	Salmonella enterica subsp. enterica serovar Typhi	3.1.1	3135STDY5861245	Nigeria	Nigeria: Outskirts of Abuja	2013	Scaffold	2016-02-10	SAMEA2603196	summ_typhi.jsonl
+GCF_900033735.1	Salmonella enterica subsp. enterica serovar Typhi	4.1.0	3135STDY5861247	Nigeria	Nigeria: Abuja	2010	Scaffold	2016-02-10	SAMEA2603199	summ_typhi.jsonl
+GCF_900035565.1	Salmonella enterica subsp. enterica serovar Typhi	3.1.1	3135STDY5861232	Nigeria	Nigeria: Abuja	2010	Scaffold	2016-02-10	SAMEA2603171	summ_typhi.jsonl
+GCF_900035575.1	Salmonella enterica subsp. enterica serovar Typhi	3.1.1	3135STDY5861234	Nigeria	Nigeria: Kano	2013	Scaffold	2016-02-10	SAMEA2603175	summ_typhi.jsonl
+GCF_900036285.1	Salmonella enterica subsp. enterica serovar Typhi	0.0.3	PO_1131	Nigeria	Nigeria: Abuja	2010	Scaffold	2016-02-10	SAMEA2547758	summ_typhi.jsonl
+GCF_900036295.1	Salmonella enterica subsp. enterica serovar Typhi	3.1.1	3135STDY5861279	Nigeria	Nigeria: Outskirts of Abuja	2013	Scaffold	2016-02-10	SAMEA2603080	summ_typhi.jsonl
+GCF_900036305.1	Salmonella enterica subsp. enterica serovar Typhi	2.2.0	3135STDY5861298	Nigeria	Nigeria: Outskirts of Abuja	2013	Scaffold	2016-02-10	SAMEA2603117	summ_typhi.jsonl
+GCF_900036315.1	Salmonella enterica subsp. enterica serovar Typhi	2.2.0	3135STDY5861369	Nigeria	Nigeria: Outskirts of Abuja	2013	Scaffold	2016-02-10	SAMEA2603254	summ_typhi.jsonl
+GCF_900036325.1	Salmonella enterica subsp. enterica serovar Typhi	3.1.1	3135STDY5861208	Nigeria	Nigeria: Abuja	2010	Scaffold	2016-02-11	SAMEA2603127	summ_typhi.jsonl
+GCF_900036335.1	Salmonella enterica subsp. enterica serovar Typhi	2.2.0	3135STDY5861209	Nigeria	Nigeria: Abuja	2011	Scaffold	2016-02-10	SAMEA2603129	summ_typhi.jsonl
+GCF_900036345.1	Salmonella enterica subsp. enterica serovar Typhi	2.3.1	3135STDY5861210	Nigeria	Nigeria: Kano	2013	Scaffold	2016-02-10	SAMEA2603131	summ_typhi.jsonl
+GCF_900036355.1	Salmonella enterica subsp. enterica serovar Typhi	3.1.1	3135STDY5861212	Nigeria	Nigeria: Outskirts of Abuja	2013	Scaffold	2016-02-10	SAMEA2603134	summ_typhi.jsonl
+GCF_900036365.1	Salmonella enterica subsp. enterica serovar Typhi	3.1.1	3135STDY5861220	Nigeria	Nigeria: Outskirts of Abuja	2013	Scaffold	2016-02-10	SAMEA2603149	summ_typhi.jsonl
+GCF_900036375.1	Salmonella enterica subsp. enterica serovar Typhi	3.1.1	3135STDY5861224	Nigeria	Nigeria: Abuja	2010	Scaffold	2016-02-10	SAMEA2603156	summ_typhi.jsonl
+GCF_900036385.1	Salmonella enterica subsp. enterica serovar Typhi	3.1.1	3135STDY5861225	Nigeria	Nigeria: Abuja	2012	Scaffold	2016-02-10	SAMEA2603158	summ_typhi.jsonl
+GCF_900036745.1	Salmonella enterica subsp. enterica serovar Typhi	3.1.1	PO_919	Nigeria	Nigeria: Abuja	2009	Scaffold	2016-02-10	SAMEA2547748	summ_typhi.jsonl
+GCF_900036755.1	Salmonella enterica subsp. enterica serovar Typhi	3.1.0	3135STDY5861294	Nigeria	Nigeria: Outskirts of Abuja	2013	Scaffold	2016-02-11	SAMEA2603109	summ_typhi.jsonl
+GCF_900036765.1	Salmonella enterica subsp. enterica serovar Typhi	3.1.1	3135STDY5861335	Nigeria	Nigeria: Outskirts of Abuja	2013	Scaffold	2016-02-10	SAMEA2603187	summ_typhi.jsonl
+GCF_900036775.1	Salmonella enterica subsp. enterica serovar Typhi	3.1.1	3135STDY5861336	Nigeria	Nigeria: Outskirts of Abuja	2013	Scaffold	2016-02-10	SAMEA2603189	summ_typhi.jsonl
+GCF_900036785.1	Salmonella enterica subsp. enterica serovar Typhi	3.1.1	3135STDY5861343	Nigeria	Nigeria: Outskirts of Abuja	2013	Scaffold	2016-02-10	SAMEA2603202	summ_typhi.jsonl
+GCF_900036795.1	Salmonella enterica subsp. enterica serovar Typhi	3.1.1	3135STDY5861344	Nigeria	Nigeria: Outskirts of Abuja	2013	Scaffold	2016-02-10	SAMEA2603205	summ_typhi.jsonl
+GCF_900036805.1	Salmonella enterica subsp. enterica serovar Typhi	2.2.0	3135STDY5861350	Nigeria	Nigeria: Outskirts of Abuja	2013	Scaffold	2016-02-10	SAMEA2603216	summ_typhi.jsonl
+GCF_900036815.1	Salmonella enterica subsp. enterica serovar Typhi	2.2.0	3135STDY5861359	Nigeria	Nigeria: Outskirts of Abuja	2013	Scaffold	2016-02-10	SAMEA2603236	summ_typhi.jsonl
+GCF_900036825.1	Salmonella enterica subsp. enterica serovar Typhi	2.2.0	3135STDY5861361	Nigeria	Nigeria: Outskirts of Abuja	2013	Scaffold	2016-02-10	SAMEA2603240	summ_typhi.jsonl
+GCF_900036835.1	Salmonella enterica subsp. enterica serovar Typhi	3.1.1	3135STDY5861193	Nigeria	Nigeria: Abuja	2011	Scaffold	2016-02-10	SAMEA2603099	summ_typhi.jsonl
+GCF_900036845.1	Salmonella enterica subsp. enterica serovar Typhi	3.1.1	3135STDY5861218	Nigeria	Nigeria: Kano	2013	Scaffold	2016-02-10	SAMEA2603145	summ_typhi.jsonl
+GCF_900036855.1	Salmonella enterica subsp. enterica serovar Typhi	3.1.1	3135STDY5861248	Nigeria	Nigeria: Abuja	2011	Scaffold	2016-02-10	SAMEA2603201	summ_typhi.jsonl
+GCF_900036865.1	Salmonella enterica subsp. enterica serovar Typhi	3.1.1	3135STDY5861271	Nigeria	Nigeria: Abuja	2010	Scaffold	2016-02-11	SAMEA2603241	summ_typhi.jsonl
+GCF_900036875.1	Salmonella enterica subsp. enterica serovar Typhi	3.1.1	3135STDY5861276	Nigeria	Nigeria: Outskirts of Abuja	2013	Scaffold	2016-02-10	SAMEA2603250	summ_typhi.jsonl
+GCF_900037575.1	Salmonella enterica subsp. enterica serovar Typhi	0.0.1	3135STDY5861196	Nigeria	Nigeria: Outskirts of Abuja	2013	Scaffold	2016-02-10	SAMEA2603105	summ_typhi.jsonl
+GCF_900037585.1	Salmonella enterica subsp. enterica serovar Typhi	3.1.1	3135STDY5861197	Nigeria	Nigeria: Outskirts of Abuja	2013	Scaffold	2016-02-10	SAMEA2603107	summ_typhi.jsonl
+GCF_900038085.1	Salmonella enterica subsp. enterica serovar Typhi	2.3.1	3135STDY5861195	Nigeria	Nigeria: Outskirts of Abuja	2012	Scaffold	2016-02-10	SAMEA2603103	summ_typhi.jsonl
+GCF_900039615.1	Salmonella enterica subsp. enterica serovar Typhi	3.1.1	3135STDY5861367	Nigeria	Nigeria: Outskirts of Abuja	2013	Scaffold	2016-02-10	SAMEA2603251	summ_typhi.jsonl
+GCF_900039625.1	Salmonella enterica subsp. enterica serovar Typhi	3.1.1	3135STDY5861366	Nigeria	Nigeria: Outskirts of Abuja	2013	Scaffold	2016-02-11	SAMEA2603249	summ_typhi.jsonl
+GCF_900040035.1	Salmonella enterica subsp. enterica serovar Typhi	3.1.1	3135STDY5861201	Nigeria	Nigeria: Abuja	2011	Scaffold	2016-02-10	SAMEA2603114	summ_typhi.jsonl
+GCF_900040045.1	Salmonella enterica subsp. enterica serovar Typhi	2.3.1	3135STDY5861233	Nigeria	Nigeria: Abuja	2012	Scaffold	2016-02-11	SAMEA2603173	summ_typhi.jsonl
+GCF_900040675.1	Salmonella enterica subsp. enterica serovar Typhi	3.1.1	3135STDY5861320	Nigeria	Nigeria: Outskirts of Abuja	2013	Scaffold	2016-02-10	SAMEA2603159	summ_typhi.jsonl
+GCF_900040685.1	Salmonella enterica subsp. enterica serovar Typhi	2.2.0	3135STDY5861353	Nigeria	Nigeria: Outskirts of Abuja	2013	Scaffold	2016-02-10	SAMEA2603222	summ_typhi.jsonl
+GCF_900041435.1	Salmonella enterica subsp. enterica serovar Typhi	2.3.1	PO_132	Nigeria	Nigeria: Abuja	2009	Scaffold	2016-02-11	SAMEA2547724	summ_typhi.jsonl
+GCF_900041445.1	Salmonella enterica subsp. enterica serovar Typhi	3.1.1	PO_227	Nigeria	Nigeria: Abuja	2009	Scaffold	2016-02-11	SAMEA2547726	summ_typhi.jsonl
+GCF_900041455.1	Salmonella enterica subsp. enterica serovar Typhi	3.1.1	PO_355	Nigeria	Nigeria: Abuja	2009	Scaffold	2016-02-10	SAMEA2547731	summ_typhi.jsonl
+GCF_900041465.1	Salmonella enterica subsp. enterica serovar Typhi	3.1.1	PO_1060	Nigeria	Nigeria: Abuja	2009	Scaffold	2016-02-10	SAMEA2547750	summ_typhi.jsonl
+GCF_900041475.1	Salmonella enterica subsp. enterica serovar Typhi	3.1.1	PO_1255	Nigeria	Nigeria: Abuja	2010	Scaffold	2016-02-10	SAMEA2547765	summ_typhi.jsonl
+GCF_900041485.1	Salmonella enterica subsp. enterica serovar Typhi	3.1.1	PO_1265	Nigeria	Nigeria: Abuja	2010	Scaffold	2016-02-10	SAMEA2547767	summ_typhi.jsonl
+GCF_900041495.1	Salmonella enterica subsp. enterica serovar Typhi	3.1.1	3135STDY5861303	Nigeria	Nigeria: Outskirts of Abuja	2013	Scaffold	2016-02-10	SAMEA2603126	summ_typhi.jsonl
+GCF_900041505.1	Salmonella enterica subsp. enterica serovar Typhi	3.1.1	3135STDY5861326	Nigeria	Nigeria: Outskirts of Abuja	2013	Scaffold	2016-02-10	SAMEA2603170	summ_typhi.jsonl
+GCF_900041515.1	Salmonella enterica subsp. enterica serovar Typhi	3.1.1	3135STDY5861327	Nigeria	Nigeria: Outskirts of Abuja	2013	Scaffold	2016-02-10	SAMEA2603172	summ_typhi.jsonl
+GCF_900041525.1	Salmonella enterica subsp. enterica serovar Typhi	3.1.1	3135STDY5861328	Nigeria	Nigeria: Outskirts of Abuja	2013	Scaffold	2016-02-10	SAMEA2603174	summ_typhi.jsonl
+GCF_900041535.1	Salmonella enterica subsp. enterica serovar Typhi	3.1.1	3135STDY5861189	Nigeria	Nigeria: Outskirts of Abuja	2013	Scaffold	2016-02-11	SAMEA2603092	summ_typhi.jsonl
+GCF_900041545.1	Salmonella enterica subsp. enterica serovar Typhi	3.1.1	3135STDY5861190	Nigeria	Nigeria: Abuja	2010	Scaffold	2016-02-10	SAMEA2603094	summ_typhi.jsonl
+GCF_900041555.1	Salmonella enterica subsp. enterica serovar Typhi	4.1.0	3135STDY5861199	Nigeria	Nigeria: Abuja	2010	Scaffold	2016-02-10	SAMEA2603110	summ_typhi.jsonl
+GCF_900041565.1	Salmonella enterica subsp. enterica serovar Typhi	3.1.1	3135STDY5861202	Nigeria	Nigeria: Kano	2013	Scaffold	2016-02-10	SAMEA2603116	summ_typhi.jsonl
+GCF_900041575.1	Salmonella enterica subsp. enterica serovar Typhi	4.1.0	3135STDY5861205	Nigeria	Nigeria: Outskirts of Abuja	2013	Scaffold	2016-02-10	SAMEA2603122	summ_typhi.jsonl
+GCF_900041585.1	Salmonella enterica subsp. enterica serovar Typhi	0.0.3	3135STDY5861206	Nigeria	Nigeria: Abuja	2010	Scaffold	2016-02-10	SAMEA2603123	summ_typhi.jsonl
+GCF_900041595.1	Salmonella enterica subsp. enterica serovar Typhi	3.1.1	3135STDY5861211	Nigeria	Nigeria: Outskirts of Abuja	2012	Scaffold	2016-02-10	SAMEA2603132	summ_typhi.jsonl
+GCF_900041605.1	Salmonella enterica subsp. enterica serovar Typhi	3.1.1	3135STDY5861217	Nigeria	Nigeria: Abuja	2012	Scaffold	2016-02-10	SAMEA2603143	summ_typhi.jsonl
+GCF_900041615.1	Salmonella enterica subsp. enterica serovar Typhi	4.1.0	3135STDY5861222	Nigeria	Nigeria: Abuja	2010	Scaffold	2016-02-10	SAMEA2603153	summ_typhi.jsonl
+GCF_900041625.1	Salmonella enterica subsp. enterica serovar Typhi	3.1.1	3135STDY5861235	Nigeria	Nigeria: Outskirts of Abuja	2012	Scaffold	2016-02-10	SAMEA2603177	summ_typhi.jsonl
+GCF_900041635.1	Salmonella enterica subsp. enterica serovar Typhi	3.1.1	3135STDY5861237	Nigeria	Nigeria: Outskirts of Abuja	2013	Scaffold	2016-02-10	SAMEA2603181	summ_typhi.jsonl
+GCF_900041645.1	Salmonella enterica subsp. enterica serovar Typhi	0.0.3	3135STDY5861239	Nigeria	Nigeria: Abuja	2010	Scaffold	2016-02-10	SAMEA2603184	summ_typhi.jsonl
+GCF_900041655.1	Salmonella enterica subsp. enterica serovar Typhi	0.0.1	3135STDY5861244	Nigeria	Nigeria: Outskirts of Abuja	2013	Scaffold	2016-02-10	SAMEA2603193	summ_typhi.jsonl
+GCF_900042405.1	Salmonella enterica subsp. enterica serovar Typhi	3.1.1	PO_575	Nigeria	Nigeria: Abuja	2009	Scaffold	2016-02-10	SAMEA2547737	summ_typhi.jsonl
+GCF_900042415.1	Salmonella enterica subsp. enterica serovar Typhi	0.0.3	PO_601	Nigeria	Nigeria: Abuja	2009	Scaffold	2016-02-10	SAMEA2547739	summ_typhi.jsonl
+GCF_900042425.1	Salmonella enterica subsp. enterica serovar Typhi	3.1.1	PO_187	Nigeria	Nigeria: Abuja	2009	Scaffold	2016-02-11	SAMEA2547725	summ_typhi.jsonl
+GCF_900042435.1	Salmonella enterica subsp. enterica serovar Typhi	4.1.0	PO_260	Nigeria	Nigeria: Abuja	2009	Scaffold	2016-02-10	SAMEA2547727	summ_typhi.jsonl
+GCF_900042445.1	Salmonella enterica subsp. enterica serovar Typhi	3.1.1	PO_293	Nigeria	Nigeria: Abuja	2009	Scaffold	2016-02-11	SAMEA2547729	summ_typhi.jsonl
+GCF_900042455.1	Salmonella enterica subsp. enterica serovar Typhi	3.1.1	3135STDY5861226	Nigeria	Nigeria: Kano	2013	Scaffold	2016-02-10	SAMEA2603160	summ_typhi.jsonl
+GCF_900043515.1	Salmonella enterica subsp. enterica serovar Typhi	4.1.0	3135STDY5861246	Nigeria	Nigeria: Abuja	2010	Scaffold	2016-02-10	SAMEA2603198	summ_typhi.jsonl
+GCF_900043525.1	Salmonella enterica subsp. enterica serovar Typhi	3.1.1	3135STDY5861252	Nigeria	Nigeria: Outskirts of Abuja	2013	Scaffold	2016-02-10	SAMEA2603208	summ_typhi.jsonl
+GCF_900043535.1	Salmonella enterica subsp. enterica serovar Typhi	2.3.1	3135STDY5861273	Nigeria	Nigeria: Abuja	2012	Scaffold	2016-02-11	SAMEA2603245	summ_typhi.jsonl
+GCF_900044085.1	Salmonella enterica subsp. enterica serovar Typhi	3.1.1	3135STDY5861259	Nigeria	Nigeria: Outskirts of Abuja	2013	Scaffold	2016-02-11	SAMEA2603221	summ_typhi.jsonl
+GCF_900044305.1	Salmonella enterica subsp. enterica serovar Typhi	2.3.1	3135STDY5861241	Nigeria	Nigeria: Abuja	2012	Scaffold	2016-02-11	SAMEA2603188	summ_typhi.jsonl
+GCF_900044315.1	Salmonella enterica subsp. enterica serovar Typhi	3.1.1	3135STDY5861242	Nigeria	Nigeria: Kano	2013	Scaffold	2016-02-10	SAMEA2603190	summ_typhi.jsonl
+GCF_900044745.1	Salmonella enterica subsp. enterica serovar Typhi	0.0.3	PO_1256	Nigeria	Nigeria: Abuja	2011	Scaffold	2016-02-10	SAMEA2547766	summ_typhi.jsonl
+GCF_900044755.1	Salmonella enterica subsp. enterica serovar Typhi	3.1.1	3135STDY5861322	Nigeria	Nigeria: Outskirts of Abuja	2013	Scaffold	2016-02-11	SAMEA2603163	summ_typhi.jsonl
+GCF_900044765.1	Salmonella enterica subsp. enterica serovar Typhi	3.1.1	3135STDY5861264	Nigeria	Nigeria: Abuja	2011	Scaffold	2016-02-10	SAMEA2603230	summ_typhi.jsonl
+GCF_900045405.1	Salmonella enterica subsp. enterica serovar Typhi	3.1.1	3135STDY5861286	Nigeria	Nigeria: Outskirts of Abuja	2013	Scaffold	2016-02-10	SAMEA2603093	summ_typhi.jsonl
+GCF_900045415.1	Salmonella enterica subsp. enterica serovar Typhi	2.2.0	3135STDY5861287	Nigeria	Nigeria: Outskirts of Abuja	2013	Scaffold	2016-02-10	SAMEA2603096	summ_typhi.jsonl
+GCF_900045425.1	Salmonella enterica subsp. enterica serovar Typhi	3.1.1	3135STDY5861282	Nigeria	Nigeria: Outskirts of Abuja	2013	Scaffold	2016-02-10	SAMEA2603085	summ_typhi.jsonl
+GCF_900045435.1	Salmonella enterica subsp. enterica serovar Typhi	3.1.1	3135STDY5861330	Nigeria	Nigeria: Outskirts of Abuja	2013	Scaffold	2016-02-10	SAMEA2603178	summ_typhi.jsonl
+GCF_900045445.1	Salmonella enterica subsp. enterica serovar Typhi	2.3.2	3135STDY5861334	Nigeria	Nigeria: Outskirts of Abuja	2013	Scaffold	2016-02-10	SAMEA2603185	summ_typhi.jsonl
+GCF_900045455.1	Salmonella enterica subsp. enterica serovar Typhi	3.1.1	3135STDY5861268	Nigeria	Nigeria: Outskirts of Abuja	2013	Scaffold	2016-02-10	SAMEA2603235	summ_typhi.jsonl
+GCF_900045465.1	Salmonella enterica subsp. enterica serovar Typhi	4.1.0	3135STDY5861270	Nigeria	Nigeria: Abuja	2010	Scaffold	2016-02-10	SAMEA2603239	summ_typhi.jsonl
+GCF_900046745.1	Salmonella enterica subsp. enterica serovar Typhi	3.1.1	PO_1057	Nigeria	Nigeria: Abuja	2009	Scaffold	2016-02-10	SAMEA2547749	summ_typhi.jsonl
+GCF_900046755.1	Salmonella enterica subsp. enterica serovar Typhi	3.1.1	PO_1063	Nigeria	Nigeria: Abuja	2009	Scaffold	2016-02-11	SAMEA2547751	summ_typhi.jsonl
+GCF_900046765.1	Salmonella enterica subsp. enterica serovar Typhi	3.1.1	3135STDY5861278	Nigeria	Nigeria: Outskirts of Abuja	2013	Scaffold	2016-02-10	SAMEA2603078	summ_typhi.jsonl
+GCF_900046775.1	Salmonella enterica subsp. enterica serovar Typhi	3.3.0	3135STDY5861183	Nigeria	Nigeria: Abuja	2010	Scaffold	2016-02-10	SAMEA2603079	summ_typhi.jsonl
+GCF_900046785.1	Salmonella enterica subsp. enterica serovar Typhi	3.1.1	3135STDY5861184	Nigeria	Nigeria: Abuja	2010	Scaffold	2016-02-10	SAMEA2603082	summ_typhi.jsonl
+GCF_900047075.1	Salmonella enterica subsp. enterica serovar Typhi	2.3.1	PO_107	Nigeria	Nigeria: Abuja	2009	Scaffold	2016-02-11	SAMEA2547723	summ_typhi.jsonl
+GCF_900047085.1	Salmonella enterica subsp. enterica serovar Typhi	3.1.1	PO_351	Nigeria	Nigeria: Abuja	2009	Scaffold	2016-02-11	SAMEA2547730	summ_typhi.jsonl
+GCF_900047095.1	Salmonella enterica subsp. enterica serovar Typhi	3.1.1	PO_812	Nigeria	Nigeria: Abuja	2009	Scaffold	2016-02-11	SAMEA2547746	summ_typhi.jsonl
+GCF_900047105.1	Salmonella enterica subsp. enterica serovar Typhi	3.1.1	PO_1098	Nigeria	Nigeria: Abuja	2010	Scaffold	2016-02-11	SAMEA2547753	summ_typhi.jsonl
+GCF_900047115.1	Salmonella enterica subsp. enterica serovar Typhi	0.0.3	3135STDY5861198	Nigeria	Nigeria: Abuja	2010	Scaffold	2016-02-10	SAMEA2603108	summ_typhi.jsonl
+GCF_900047125.1	Salmonella enterica subsp. enterica serovar Typhi	3.1.1	3135STDY5861236	Nigeria	Nigeria: Outskirts of Abuja	2013	Scaffold	2016-02-11	SAMEA2603179	summ_typhi.jsonl
+GCF_900048065.1	Salmonella enterica subsp. enterica serovar Typhi	3.1.1	3135STDY5861338	Nigeria	Nigeria: Outskirts of Abuja	2013	Scaffold	2016-02-10	SAMEA2603194	summ_typhi.jsonl
+GCF_900048075.1	Salmonella enterica subsp. enterica serovar Typhi	3.1.1	3135STDY5861216	Nigeria	Nigeria: Abuja	2010	Scaffold	2016-02-10	SAMEA2603141	summ_typhi.jsonl
+GCA_001085525.1	Salmonella enterica subsp. enterica serovar Typhi	Not known	E98-6926	Mauritania	Mauritania	1998	Scaffold	2015-07-10	SAMEA1930147	summ_typhi.jsonl
+GCA_001089625.1	Salmonella enterica subsp. enterica serovar Typhi	Not known	07-4565	Cote d'Ivoire	Cote d'Ivoire	2007	Scaffold	2015-07-10	SAMEA1930221	summ_typhi.jsonl
+GCA_001092585.1	Salmonella enterica subsp. enterica serovar Typhi	Not known	07-5494	Cote d'Ivoire	Cote d'Ivoire	2007	Contig	2015-07-10	SAMEA1930223	summ_typhi.jsonl
+GCA_001110425.1	Salmonella enterica subsp. enterica serovar Typhi	Not known	04-0339	Togo	Togo	2004	Contig	2015-07-10	SAMEA1930204	summ_typhi.jsonl
+GCA_001111385.1	Salmonella enterica subsp. enterica serovar Typhi	Not known	E01-1811	Mali	Mali	2001	Contig	2015-07-10	SAMEA1930179	summ_typhi.jsonl
+GCA_001112185.1	Salmonella enterica subsp. enterica serovar Typhi	Not known	MDUST108	Liberia	Liberia	2007	Scaffold	2015-07-10	SAMEA2159311	summ_typhi.jsonl
+GCA_001119805.1	Salmonella enterica subsp. enterica serovar Typhi	Not known	E02-1739	Benin	Benin	2002	Contig	2015-07-10	SAMEA1930196	summ_typhi.jsonl
+GCA_001137065.1	Salmonella enterica subsp. enterica serovar Typhi	Not known	E99-6478	Guinea	Guinea	1999	Contig	2015-07-10	SAMEA1930155	summ_typhi.jsonl
+GCA_001156885.1	Salmonella enterica subsp. enterica serovar Typhi	Not known	06-6055	Burkina Faso	Burkina Faso	2006	Scaffold	2015-07-10	SAMEA1930214	summ_typhi.jsonl
+GCA_001158025.1	Salmonella enterica subsp. enterica serovar Typhi	Not known	08-10571	Mali	Mali	2008	Scaffold	2015-07-10	SAMEA1930227	summ_typhi.jsonl
+GCA_001159785.1	Salmonella enterica subsp. enterica serovar Typhi	Not known	09-8774	Benin	Benin	2009	Contig	2015-07-10	SAMEA1930255	summ_typhi.jsonl
+GCA_001162945.1	Salmonella enterica subsp. enterica serovar Typhi	Not known	06-1510	Burkina Faso	Burkina Faso	2006	Contig	2015-07-10	SAMEA1930210	summ_typhi.jsonl
+GCA_001166665.1	Salmonella enterica subsp. enterica serovar Typhi	Not known	06-7490	Togo	Togo	2006	Contig	2015-07-10	SAMEA1930216	summ_typhi.jsonl
+GCA_001171125.1	Salmonella enterica subsp. enterica serovar Typhi	Not known	09-4821	Guinea	Guinea	2009	Scaffold	2015-07-09	SAMEA1930251	summ_typhi.jsonl
+GCA_001356955.1	Salmonella enterica subsp. enterica serovar Typhi	Not known	E98-2107	Senegal	Senegal	1998	Contig	2015-04-22	SAMEA1930145	summ_typhi.jsonl
+GCA_001356995.1	Salmonella enterica subsp. enterica serovar Typhi	Not known	E99-1028	Senegal	Senegal	1999	Contig	2015-04-22	SAMEA1930150	summ_typhi.jsonl
+GCA_001357055.1	Salmonella enterica subsp. enterica serovar Typhi	Not known	E99-6359	Mali	Mali	1999	Contig	2015-04-22	SAMEA1930154	summ_typhi.jsonl
+GCA_001357155.1	Salmonella enterica subsp. enterica serovar Typhi	Not known	E00-3201	Mali	Mali	2000	Scaffold	2015-04-22	SAMEA1930165	summ_typhi.jsonl
+GCA_001357175.1	Salmonella enterica subsp. enterica serovar Typhi	Not known	E01-7101	Togo	Togo	2001	Contig	2015-04-22	SAMEA1930166	summ_typhi.jsonl
+GCA_001357195.1	Salmonella enterica subsp. enterica serovar Typhi	Not known	E02-0530	Nigeria	Nigeria	2002	Scaffold	2015-04-01	SAMEA1930167	summ_typhi.jsonl
+GCA_001357215.1	Salmonella enterica subsp. enterica serovar Typhi	Not known	E00-6599	Cape Verde	Cape Verde	2000	Scaffold	2015-04-22	SAMEA1930169	summ_typhi.jsonl
+GCA_001357315.1	Salmonella enterica subsp. enterica serovar Typhi	Not known	E99-9082	Niger	Niger	1999	Scaffold	2015-04-22	SAMEA1930182	summ_typhi.jsonl
+GCA_001357415.1	Salmonella enterica subsp. enterica serovar Typhi	Not known	04-6845	Benin	Benin	2004	Scaffold	2015-04-22	SAMEA1930205	summ_typhi.jsonl
+GCA_001357435.1	Salmonella enterica subsp. enterica serovar Typhi	Not known	04-7167	Benin	Benin	2004	Scaffold	2015-07-24	SAMEA1930206	summ_typhi.jsonl
+GCA_001357475.1	Salmonella enterica subsp. enterica serovar Typhi	Not known	06-1513	Burkina Faso	Burkina Faso	2006	Scaffold	2015-04-22	SAMEA1930211	summ_typhi.jsonl
+GCA_001357515.1	Salmonella enterica subsp. enterica serovar Typhi	Not known	06-6673	Cote d'Ivoire	Cote d'Ivoire	2006	Scaffold	2015-04-22	SAMEA1930215	summ_typhi.jsonl
+GCA_001357615.1	Salmonella enterica subsp. enterica serovar Typhi	Not known	08-4327	Cote d'Ivoire	Cote d'Ivoire	2008	Contig	2015-04-22	SAMEA1930224	summ_typhi.jsonl
+GCA_001357955.1	Salmonella enterica subsp. enterica serovar Typhi	Not known	09-5232	Mauritania	Mauritania	2009	Contig	2015-04-22	SAMEA1930253	summ_typhi.jsonl
+GCA_001357975.1	Salmonella enterica subsp. enterica serovar Typhi	Not known	09-8993	Nigeria	Nigeria	2009	Scaffold	2015-04-22	SAMEA1930256	summ_typhi.jsonl
+GCA_009257025.1	Salmonella enterica subsp. enterica serovar Typhi	Typhi	IP E.88.353	Senegal	Senegal	1988	Contig	2019-10-22	SAMN02367759	summ_typhi.jsonl
+GCA_010662585.1	Salmonella enterica subsp. enterica serovar Typhi	Typhi	IP E.88.374	Senegal	Senegal	1988	Contig	2020-02-14	SAMN02367758	summ_typhi.jsonl
+GCA_011239815.1	Salmonella enterica subsp. enterica serovar Typhi	Paratyphi A	01 1852	Senegal	Senegal	2001	Contig	2020-03-12	SAMEA1462609	summ_typhi.jsonl
+GCA_011242295.1	Salmonella enterica subsp. enterica serovar Typhi	Paratyphi A	A61-139	Senegal	Senegal	1952	Contig	2020-03-12	SAMEA1462592	summ_typhi.jsonl
+GCA_011258675.1	Salmonella enterica subsp. enterica serovar Typhi	Paratyphi A	06 2633	Senegal	Senegal	2006	Contig	2020-03-13	SAMEA1462594	summ_typhi.jsonl
+GCA_011259635.1	Salmonella enterica subsp. enterica serovar Typhi	Paratyphi A	A77-46	Mali	Mali	1977	Contig	2020-03-13	SAMEA1462620	summ_typhi.jsonl
+GCA_011259905.1	Salmonella enterica subsp. enterica serovar Typhi	Paratyphi A	04 6031	Senegal	Senegal	2004	Contig	2020-03-13	SAMEA1462589	summ_typhi.jsonl
+GCA_011296585.1	Salmonella enterica subsp. enterica serovar Typhi	Paratyphi A	06 6491	Mali	Mali	2006	Contig	2020-03-16	SAMEA1462626	summ_typhi.jsonl
+GCA_011296755.1	Salmonella enterica subsp. enterica serovar Typhi	Paratyphi A	02 8292	Guinea	Guinea	2002	Contig	2020-03-16	SAMEA1462570	summ_typhi.jsonl
+GCA_011297015.1	Salmonella enterica subsp. enterica serovar Typhi	Paratyphi A	00 2046	Guinea	Guinea	2000	Contig	2020-03-16	SAMEA1462621	summ_typhi.jsonl
+GCA_011350685.1	Salmonella enterica subsp. enterica serovar Typhi	Paratyphi A	02 4282	Mali	Mali	2002	Contig	2020-03-16	SAMEA1462585	summ_typhi.jsonl
+GCA_011350805.1	Salmonella enterica subsp. enterica serovar Typhi	Paratyphi A	02 1383	Guinea	Guinea	2002	Contig	2020-03-16	SAMEA1462605	summ_typhi.jsonl
+GCA_021373475.1	Salmonella enterica subsp. enterica serovar Typhi	Typhi	NE729	Nigeria	Nigeria:Jos	2018-08-31	Contig	2022-01-05	SAMN16865207	summ_typhi.jsonl
+GCA_021373515.1	Salmonella enterica subsp. enterica serovar Typhi	Typhi	NE728	Nigeria	Nigeria:Jos	2018-08-31	Contig	2022-01-05	SAMN16865206	summ_typhi.jsonl
+GCA_023082245.1	Salmonella enterica subsp. enterica serovar Typhi	Typhi		Gambia	Gambia	2009-01-06	Contig	2022-04-21	SAMEA8226926	summ_typhi.jsonl
+GCA_023082335.1	Salmonella enterica subsp. enterica serovar Typhi	Typhi		Gambia	Gambia	2011-03-07	Contig	2022-04-21	SAMEA8226933	summ_typhi.jsonl
+GCA_023082685.1	Salmonella enterica subsp. enterica serovar Typhi	Typhi		Gambia	Gambia	2012-03-31	Contig	2022-04-21	SAMEA8226962	summ_typhi.jsonl
+GCA_023082725.1	Salmonella enterica subsp. enterica serovar Typhi	Typhi		Gambia	Gambia	2012-03-08	Contig	2022-04-21	SAMEA8226970	summ_typhi.jsonl
+GCA_023082765.1	Salmonella enterica subsp. enterica serovar Typhi	Typhi		Gambia	Gambia	2012-05-30	Contig	2022-04-21	SAMEA8226972	summ_typhi.jsonl
+GCA_023082925.1	Salmonella enterica subsp. enterica serovar Typhi	Typhi		Gambia	Gambia	2012-07-30	Contig	2022-04-21	SAMEA8226983	summ_typhi.jsonl
+GCA_023083085.1	Salmonella enterica subsp. enterica serovar Typhi	Typhi		Gambia	Gambia	2012-11-15	Contig	2022-04-21	SAMEA8227004	summ_typhi.jsonl
+GCA_023083685.1	Salmonella enterica subsp. enterica serovar Typhi	Typhi		Gambia	Gambia	2008-08-02	Contig	2022-04-21	SAMEA8226922	summ_typhi.jsonl
+GCA_023083735.1	Salmonella enterica subsp. enterica serovar Typhi	Typhi		Gambia	Gambia	2008-09-10	Contig	2022-04-21	SAMEA8226923	summ_typhi.jsonl
+GCA_023083775.1	Salmonella enterica subsp. enterica serovar Typhi	Typhi		Gambia	Gambia	2011-01-03	Contig	2022-04-21	SAMEA8226934	summ_typhi.jsonl
+GCA_023083925.1	Salmonella enterica subsp. enterica serovar Typhi	Typhi		Gambia	Gambia	2012-10-10	Contig	2022-04-21	SAMEA8226999	summ_typhi.jsonl
+GCA_023083965.1	Salmonella enterica subsp. enterica serovar Typhi	Typhi		Gambia	Gambia	2013-03-20	Contig	2022-04-21	SAMEA8227014	summ_typhi.jsonl
+GCA_023084065.1	Salmonella enterica subsp. enterica serovar Typhi	Typhi		Gambia	Gambia	2013-08-10	Contig	2022-04-21	SAMEA8227020	summ_typhi.jsonl
+GCA_023084265.1	Salmonella enterica subsp. enterica serovar Typhi	Typhi		Gambia	Gambia	2014-07-20	Contig	2022-04-21	SAMEA8227036	summ_typhi.jsonl
+GCA_023085485.1	Salmonella enterica subsp. enterica serovar Typhi	Typhi		Gambia	Gambia	2014-10-24	Contig	2022-04-21	SAMEA8227057	summ_typhi.jsonl
+GCA_023086505.1	Salmonella enterica subsp. enterica serovar Typhi	Typhi		Gambia	Gambia	2013-12-17	Contig	2022-04-21	SAMEA8227031	summ_typhi.jsonl
+GCA_023089785.1	Salmonella enterica subsp. enterica serovar Typhi	Typhi		Gambia	Gambia	2008-07-25	Contig	2022-04-21	SAMEA8226921	summ_typhi.jsonl
+GCA_023089865.1	Salmonella enterica subsp. enterica serovar Typhi	Typhi		Gambia	Gambia	2012-11-25	Contig	2022-04-21	SAMEA8227005	summ_typhi.jsonl
+GCA_023090085.1	Salmonella enterica subsp. enterica serovar Typhi	Typhi		Gambia	Gambia	2014-03-13	Contig	2022-04-21	SAMEA8227033	summ_typhi.jsonl
+GCA_023090125.1	Salmonella enterica subsp. enterica serovar Typhi	Typhi		Gambia	Gambia	2015-07-31	Contig	2022-04-21	SAMEA8227061	summ_typhi.jsonl
+GCA_023090145.1	Salmonella enterica subsp. enterica serovar Typhi	Typhi		Gambia	Gambia	2011-06-14	Contig	2022-04-21	SAMEA8227070	summ_typhi.jsonl
+GCA_023090305.1	Salmonella enterica subsp. enterica serovar Typhi	Typhi		Gambia	Gambia	2010-07-24	Contig	2022-04-22	SAMEA8226932	summ_typhi.jsonl
+GCA_023090605.1	Salmonella enterica subsp. enterica serovar Typhi	Typhi		Gambia	Gambia	2013-11-10	Contig	2022-04-22	SAMEA8227029	summ_typhi.jsonl
+GCA_023090625.1	Salmonella enterica subsp. enterica serovar Typhi	Typhi		Gambia	Gambia	2013-08-04	Contig	2022-04-22	SAMEA8227019	summ_typhi.jsonl
+GCA_023090665.1	Salmonella enterica subsp. enterica serovar Typhi	Typhi		Gambia	Gambia	2015-02-12	Contig	2022-04-22	SAMEA8227047	summ_typhi.jsonl
+GCA_023090725.1	Salmonella enterica subsp. enterica serovar Typhi	Typhi		Gambia	Gambia	2016-02-02	Contig	2022-04-22	SAMEA8227064	summ_typhi.jsonl
+GCA_048589405.1	Salmonella enterica subsp. enterica serovar Typhi	Typhi	PO187	Nigeria	Nigeria	not applicable	Contig	2025-03-16	SAMN45204685	summ_typhi.jsonl
+GCA_048589525.1	Salmonella enterica subsp. enterica serovar Typhi	Typhi	PO227	Nigeria	Nigeria	not applicable	Contig	2025-03-16	SAMN45204678	summ_typhi.jsonl
+GCA_048589545.1	Salmonella enterica subsp. enterica serovar Typhi	Typhi	PO260	Nigeria	Nigeria	not applicable	Contig	2025-03-16	SAMN45204679	summ_typhi.jsonl
+GCA_048589705.1	Salmonella enterica subsp. enterica serovar Typhi	Typhi	PO293	Nigeria	Nigeria	not applicable	Contig	2025-03-16	SAMN45204670	summ_typhi.jsonl
+GCA_048589725.1	Salmonella enterica subsp. enterica serovar Typhi	Typhi	PO107	Nigeria	Nigeria	not applicable	Contig	2025-03-16	SAMN45204668	summ_typhi.jsonl
+GCA_048589745.1	Salmonella enterica subsp. enterica serovar Typhi	Typhi	PO132	Nigeria	Nigeria	not applicable	Contig	2025-03-16	SAMN45204669	summ_typhi.jsonl
+GCA_048589785.1	Salmonella enterica subsp. enterica serovar Typhi	Typhi	PO30	Nigeria	Nigeria	not applicable	Contig	2025-03-16	SAMN45204666	summ_typhi.jsonl
+GCA_048590045.1	Salmonella enterica subsp. enterica serovar Typhi	Typhi	PO 1747	Nigeria	Nigeria	not applicable	Contig	2025-03-16	SAMN45204654	summ_typhi.jsonl
+GCA_052371855.1	Salmonella enterica subsp. enterica serovar Typhi	Typhi	UG27	Ghana	Ghana	2023-03-10	Contig	2025-08-30	SAMN50736779	summ_typhi.jsonl
+GCA_052371875.1	Salmonella enterica subsp. enterica serovar Typhi	Typhi	UG26	Ghana	Ghana	2023-03-10	Contig	2025-08-30	SAMN50736778	summ_typhi.jsonl
+GCA_052371895.1	Salmonella enterica subsp. enterica serovar Typhi	Typhi	UG24	Ghana	Ghana	2023-03-10	Contig	2025-08-30	SAMN50736776	summ_typhi.jsonl
+GCA_052372015.1	Salmonella enterica subsp. enterica serovar Typhi	Typhi	UG17	Ghana	Ghana	2023-03-10	Contig	2025-08-30	SAMN50736770	summ_typhi.jsonl
+GCA_052372315.1	Salmonella enterica subsp. enterica serovar Typhi	Typhi	UG02	Ghana	Ghana	2023-03-10	Contig	2025-08-30	SAMN50736755	summ_typhi.jsonl
+GCA_052372335.1	Salmonella enterica subsp. enterica serovar Typhi	Typhi	UG01	Ghana	Ghana	2023-03-10	Contig	2025-08-30	SAMN50736754	summ_typhi.jsonl
+GCA_053159495.1	Salmonella enterica subsp. enterica serovar Typhi	Typhi	Styphi-548852	Niger	Niger	2017	Contig	2025-10-21	SAMN52659728	summ_typhi.jsonl
+GCA_053159555.1	Salmonella enterica subsp. enterica serovar Typhi	Typhi	Styphi-548620	Niger	Niger	2017	Contig	2025-10-21	SAMN52659724	summ_typhi.jsonl
+GCA_053159575.1	Salmonella enterica subsp. enterica serovar Typhi	Typhi	Styphi-548616	Niger	Niger	2017	Contig	2025-10-21	SAMN52659722	summ_typhi.jsonl
+GCA_053161295.1	Salmonella enterica subsp. enterica serovar Typhi	Typhi	Styphi-548618	Niger	Niger	2017	Contig	2025-10-21	SAMN52659723	summ_typhi.jsonl
+GCA_053161315.1	Salmonella enterica subsp. enterica serovar Typhi	Typhi	Styphi-548625	Niger	Niger	2017	Contig	2025-10-21	SAMN52659726	summ_typhi.jsonl
+GCA_053161355.1	Salmonella enterica subsp. enterica serovar Typhi	Typhi	Styphi-548623	Niger	Niger	2017	Contig	2025-10-21	SAMN52659725	summ_typhi.jsonl
+GCA_053161375.1	Salmonella enterica subsp. enterica serovar Typhi	Typhi	548622	Niger	Niger	2017	Contig	2025-10-21	SAMN52659721	summ_typhi.jsonl
+GCA_053163215.1	Salmonella enterica subsp. enterica serovar Typhi	Typhi	548614_H18218070901-1	Niger	Niger	2017	Contig	2025-10-21	SAMN52659616	summ_typhi.jsonl
+GCA_055678755.1	Salmonella enterica subsp. enterica serovar Typhi	Typhi	3275H	Burkina Faso	Burkina Faso	2015-06-19	Contig	2026-03-04	SAMN54528461	summ_typhi.jsonl
+GCA_055681315.1	Salmonella enterica subsp. enterica serovar Typhi	Typhi	3014H	Burkina Faso	Burkina Faso	2015-09-10	Contig	2026-03-04	SAMN54528394	summ_typhi.jsonl
+GCA_055681435.1	Salmonella enterica subsp. enterica serovar Typhi	Typhi	3995H	Burkina Faso	Burkina Faso	2016-07-15	Contig	2026-03-04	SAMN54528391	summ_typhi.jsonl
+GCA_900017235.1	Salmonella enterica subsp. enterica serovar Typhi	4.1.1	PO_1110	Nigeria	Nigeria: Abuja	2010	Scaffold	2016-02-10	SAMEA2547756	summ_typhi.jsonl
+GCA_900017245.1	Salmonella enterica subsp. enterica serovar Typhi	4.1.0	PO_1232	Nigeria	Nigeria: Abuja	2010	Scaffold	2016-02-10	SAMEA2547762	summ_typhi.jsonl
+GCA_900017255.1	Salmonella enterica subsp. enterica serovar Typhi	2.2.0	3135STDY5861337	Nigeria	Nigeria: Outskirts of Abuja	2013	Scaffold	2016-02-10	SAMEA2603191	summ_typhi.jsonl
+GCA_900018595.1	Salmonella enterica subsp. enterica serovar Typhi	3.1.1	3135STDY5861304	Nigeria	Nigeria: Outskirts of Abuja	2013	Scaffold	2016-02-10	SAMEA2603128	summ_typhi.jsonl
+GCA_900018605.1	Salmonella enterica subsp. enterica serovar Typhi	3.1.1	3135STDY5861306	Nigeria	Nigeria: Outskirts of Abuja	2013	Scaffold	2016-02-10	SAMEA2603133	summ_typhi.jsonl
+GCA_900018615.1	Salmonella enterica subsp. enterica serovar Typhi	3.1.1	3135STDY5861312	Nigeria	Nigeria: Outskirts of Abuja	2013	Scaffold	2016-02-10	SAMEA2603144	summ_typhi.jsonl
+GCA_900018625.1	Salmonella enterica subsp. enterica serovar Typhi	2.3.1	3135STDY5861342	Nigeria	Nigeria: Outskirts of Abuja	2013	Scaffold	2016-02-11	SAMEA2603200	summ_typhi.jsonl
+GCA_900018635.1	Salmonella enterica subsp. enterica serovar Typhi	3.1.1	3135STDY5861368	Nigeria	Nigeria: Outskirts of Abuja	2013	Scaffold	2016-02-10	SAMEA2603253	summ_typhi.jsonl
+GCA_900018645.1	Salmonella enterica subsp. enterica serovar Typhi	3.1.1	3135STDY5861243	Nigeria	Nigeria: Outskirts of Abuja	2012	Scaffold	2016-02-10	SAMEA2603192	summ_typhi.jsonl
+GCA_900018655.1	Salmonella enterica subsp. enterica serovar Typhi	3.1.1	3135STDY5861251	Nigeria	Nigeria: Outskirts of Abuja	2013	Scaffold	2016-02-10	SAMEA2603206	summ_typhi.jsonl
+GCA_900018665.1	Salmonella enterica subsp. enterica serovar Typhi	2.1.0	3135STDY5861272	Nigeria	Nigeria: Abuja	2011	Scaffold	2016-02-10	SAMEA2603243	summ_typhi.jsonl
+GCA_900022555.1	Salmonella enterica subsp. enterica serovar Typhi	2.2.0	3135STDY5861289	Nigeria	Nigeria: Outskirts of Abuja	2013	Scaffold	2016-02-10	SAMEA2603100	summ_typhi.jsonl
+GCA_900022565.1	Salmonella enterica subsp. enterica serovar Typhi	3.1.1	3135STDY5861228	Nigeria	Nigeria: Outskirts of Abuja	2013	Scaffold	2016-02-10	SAMEA2603164	summ_typhi.jsonl
+GCA_900024935.1	Salmonella enterica subsp. enterica serovar Typhi	3.1.1	3135STDY5861319	Nigeria	Nigeria: Outskirts of Abuja	2013	Scaffold	2016-02-10	SAMEA2603157	summ_typhi.jsonl
+GCA_900024945.1	Salmonella enterica subsp. enterica serovar Typhi	3.1.1	3135STDY5861229	Nigeria	Nigeria: Outskirts of Abuja	2013	Scaffold	2016-02-10	SAMEA2603166	summ_typhi.jsonl
+GCA_900024955.1	Salmonella enterica subsp. enterica serovar Typhi	3.1.1	3135STDY5861230	Nigeria	Nigeria: Abuja	2010	Scaffold	2016-02-10	SAMEA2603168	summ_typhi.jsonl
+GCA_900029285.1	Salmonella enterica subsp. enterica serovar Typhi	3.1.1	PO_30	Nigeria	Nigeria: Abuja	2008	Scaffold	2016-02-10	SAMEA2547720	summ_typhi.jsonl
+GCA_900029295.1	Salmonella enterica subsp. enterica serovar Typhi	3.1.1	PO_771	Nigeria	Nigeria: Abuja	2009	Scaffold	2016-02-10	SAMEA2547744	summ_typhi.jsonl
+GCA_900029305.1	Salmonella enterica subsp. enterica serovar Typhi	3.1.1	PO_1101	Nigeria	Nigeria: Abuja	2010	Scaffold	2016-02-11	SAMEA2547754	summ_typhi.jsonl
+GCA_900029315.1	Salmonella enterica subsp. enterica serovar Typhi	3.1.1	PO_1210	Nigeria	Nigeria: Abuja	2010	Scaffold	2016-02-10	SAMEA2547760	summ_typhi.jsonl
+GCA_900029325.1	Salmonella enterica subsp. enterica serovar Typhi	3.1.1	PO_1242	Nigeria	Nigeria: Abuja	2010	Scaffold	2016-02-10	SAMEA2547763	summ_typhi.jsonl
+GCA_900031555.1	Salmonella enterica subsp. enterica serovar Typhi	2.2.0	3135STDY5861280	Nigeria	Nigeria: Outskirts of Abuja	2013	Scaffold	2016-02-10	SAMEA2603081	summ_typhi.jsonl
+GCA_900031565.1	Salmonella enterica subsp. enterica serovar Typhi	2.2.0	3135STDY5861290	Nigeria	Nigeria: Outskirts of Abuja	2013	Scaffold	2016-02-10	SAMEA2603102	summ_typhi.jsonl
+GCA_900031575.1	Salmonella enterica subsp. enterica serovar Typhi	3.1.1	3135STDY5861314	Nigeria	Nigeria: Outskirts of Abuja	2013	Scaffold	2016-02-10	SAMEA2603148	summ_typhi.jsonl
+GCA_900031585.1	Salmonella enterica subsp. enterica serovar Typhi	3.1.1	3135STDY5861351	Nigeria	Nigeria: Outskirts of Abuja	2013	Scaffold	2016-02-10	SAMEA2603218	summ_typhi.jsonl
+GCA_900031595.1	Salmonella enterica subsp. enterica serovar Typhi	2.2.0	3135STDY5861253	Nigeria	Nigeria: Outskirts of Abuja	2013	Scaffold	2016-02-10	SAMEA2603210	summ_typhi.jsonl
+GCA_900031605.1	Salmonella enterica subsp. enterica serovar Typhi	2.1.0	3135STDY5861254	Nigeria	Nigeria: Abuja	2010	Scaffold	2016-02-10	SAMEA2603212	summ_typhi.jsonl
+GCA_900031615.1	Salmonella enterica subsp. enterica serovar Typhi	3.1.1	3135STDY5861256	Nigeria	Nigeria: Abuja	2011	Scaffold	2016-02-10	SAMEA2603215	summ_typhi.jsonl
+GCA_900031625.1	Salmonella enterica subsp. enterica serovar Typhi	3.1.1	3135STDY5861260	Nigeria	Nigeria: Outskirts of Abuja	2013	Scaffold	2016-02-10	SAMEA2603223	summ_typhi.jsonl
+GCA_900031635.1	Salmonella enterica subsp. enterica serovar Typhi	3.1.1	3135STDY5861262	Nigeria	Nigeria: Abuja	2010	Scaffold	2016-02-10	SAMEA2603227	summ_typhi.jsonl
+GCA_900033705.1	Salmonella enterica subsp. enterica serovar Typhi	0.0.3	PO_1102	Nigeria	Nigeria: Abuja	2010	Scaffold	2016-02-10	SAMEA2547755	summ_typhi.jsonl
+GCA_900033715.1	Salmonella enterica subsp. enterica serovar Typhi	3.1.1	3135STDY5861213	Nigeria	Nigeria: Outskirts of Abuja	2013	Scaffold	2016-02-10	SAMEA2603136	summ_typhi.jsonl
+GCA_900033725.1	Salmonella enterica subsp. enterica serovar Typhi	3.1.1	3135STDY5861245	Nigeria	Nigeria: Outskirts of Abuja	2013	Scaffold	2016-02-10	SAMEA2603196	summ_typhi.jsonl
+GCA_900033735.1	Salmonella enterica subsp. enterica serovar Typhi	4.1.0	3135STDY5861247	Nigeria	Nigeria: Abuja	2010	Scaffold	2016-02-10	SAMEA2603199	summ_typhi.jsonl
+GCA_900035565.1	Salmonella enterica subsp. enterica serovar Typhi	3.1.1	3135STDY5861232	Nigeria	Nigeria: Abuja	2010	Scaffold	2016-02-10	SAMEA2603171	summ_typhi.jsonl
+GCA_900035575.1	Salmonella enterica subsp. enterica serovar Typhi	3.1.1	3135STDY5861234	Nigeria	Nigeria: Kano	2013	Scaffold	2016-02-10	SAMEA2603175	summ_typhi.jsonl
+GCA_900036285.1	Salmonella enterica subsp. enterica serovar Typhi	0.0.3	PO_1131	Nigeria	Nigeria: Abuja	2010	Scaffold	2016-02-10	SAMEA2547758	summ_typhi.jsonl
+GCA_900036295.1	Salmonella enterica subsp. enterica serovar Typhi	3.1.1	3135STDY5861279	Nigeria	Nigeria: Outskirts of Abuja	2013	Scaffold	2016-02-10	SAMEA2603080	summ_typhi.jsonl
+GCA_900036305.1	Salmonella enterica subsp. enterica serovar Typhi	2.2.0	3135STDY5861298	Nigeria	Nigeria: Outskirts of Abuja	2013	Scaffold	2016-02-10	SAMEA2603117	summ_typhi.jsonl
+GCA_900036315.1	Salmonella enterica subsp. enterica serovar Typhi	2.2.0	3135STDY5861369	Nigeria	Nigeria: Outskirts of Abuja	2013	Scaffold	2016-02-10	SAMEA2603254	summ_typhi.jsonl
+GCA_900036325.1	Salmonella enterica subsp. enterica serovar Typhi	3.1.1	3135STDY5861208	Nigeria	Nigeria: Abuja	2010	Scaffold	2016-02-11	SAMEA2603127	summ_typhi.jsonl
+GCA_900036335.1	Salmonella enterica subsp. enterica serovar Typhi	2.2.0	3135STDY5861209	Nigeria	Nigeria: Abuja	2011	Scaffold	2016-02-10	SAMEA2603129	summ_typhi.jsonl
+GCA_900036345.1	Salmonella enterica subsp. enterica serovar Typhi	2.3.1	3135STDY5861210	Nigeria	Nigeria: Kano	2013	Scaffold	2016-02-10	SAMEA2603131	summ_typhi.jsonl
+GCA_900036355.1	Salmonella enterica subsp. enterica serovar Typhi	3.1.1	3135STDY5861212	Nigeria	Nigeria: Outskirts of Abuja	2013	Scaffold	2016-02-10	SAMEA2603134	summ_typhi.jsonl
+GCA_900036365.1	Salmonella enterica subsp. enterica serovar Typhi	3.1.1	3135STDY5861220	Nigeria	Nigeria: Outskirts of Abuja	2013	Scaffold	2016-02-10	SAMEA2603149	summ_typhi.jsonl
+GCA_900036375.1	Salmonella enterica subsp. enterica serovar Typhi	3.1.1	3135STDY5861224	Nigeria	Nigeria: Abuja	2010	Scaffold	2016-02-10	SAMEA2603156	summ_typhi.jsonl
+GCA_900036385.1	Salmonella enterica subsp. enterica serovar Typhi	3.1.1	3135STDY5861225	Nigeria	Nigeria: Abuja	2012	Scaffold	2016-02-10	SAMEA2603158	summ_typhi.jsonl
+GCA_900036745.1	Salmonella enterica subsp. enterica serovar Typhi	3.1.1	PO_919	Nigeria	Nigeria: Abuja	2009	Scaffold	2016-02-10	SAMEA2547748	summ_typhi.jsonl
+GCA_900036755.1	Salmonella enterica subsp. enterica serovar Typhi	3.1.0	3135STDY5861294	Nigeria	Nigeria: Outskirts of Abuja	2013	Scaffold	2016-02-11	SAMEA2603109	summ_typhi.jsonl
+GCA_900036765.1	Salmonella enterica subsp. enterica serovar Typhi	3.1.1	3135STDY5861335	Nigeria	Nigeria: Outskirts of Abuja	2013	Scaffold	2016-02-10	SAMEA2603187	summ_typhi.jsonl
+GCA_900036775.1	Salmonella enterica subsp. enterica serovar Typhi	3.1.1	3135STDY5861336	Nigeria	Nigeria: Outskirts of Abuja	2013	Scaffold	2016-02-10	SAMEA2603189	summ_typhi.jsonl
+GCA_900036785.1	Salmonella enterica subsp. enterica serovar Typhi	3.1.1	3135STDY5861343	Nigeria	Nigeria: Outskirts of Abuja	2013	Scaffold	2016-02-10	SAMEA2603202	summ_typhi.jsonl
+GCA_900036795.1	Salmonella enterica subsp. enterica serovar Typhi	3.1.1	3135STDY5861344	Nigeria	Nigeria: Outskirts of Abuja	2013	Scaffold	2016-02-10	SAMEA2603205	summ_typhi.jsonl
+GCA_900036805.1	Salmonella enterica subsp. enterica serovar Typhi	2.2.0	3135STDY5861350	Nigeria	Nigeria: Outskirts of Abuja	2013	Scaffold	2016-02-10	SAMEA2603216	summ_typhi.jsonl
+GCA_900036815.1	Salmonella enterica subsp. enterica serovar Typhi	2.2.0	3135STDY5861359	Nigeria	Nigeria: Outskirts of Abuja	2013	Scaffold	2016-02-10	SAMEA2603236	summ_typhi.jsonl
+GCA_900036825.1	Salmonella enterica subsp. enterica serovar Typhi	2.2.0	3135STDY5861361	Nigeria	Nigeria: Outskirts of Abuja	2013	Scaffold	2016-02-10	SAMEA2603240	summ_typhi.jsonl
+GCA_900036835.1	Salmonella enterica subsp. enterica serovar Typhi	3.1.1	3135STDY5861193	Nigeria	Nigeria: Abuja	2011	Scaffold	2016-02-10	SAMEA2603099	summ_typhi.jsonl
+GCA_900036845.1	Salmonella enterica subsp. enterica serovar Typhi	3.1.1	3135STDY5861218	Nigeria	Nigeria: Kano	2013	Scaffold	2016-02-10	SAMEA2603145	summ_typhi.jsonl
+GCA_900036855.1	Salmonella enterica subsp. enterica serovar Typhi	3.1.1	3135STDY5861248	Nigeria	Nigeria: Abuja	2011	Scaffold	2016-02-10	SAMEA2603201	summ_typhi.jsonl
+GCA_900036865.1	Salmonella enterica subsp. enterica serovar Typhi	3.1.1	3135STDY5861271	Nigeria	Nigeria: Abuja	2010	Scaffold	2016-02-11	SAMEA2603241	summ_typhi.jsonl
+GCA_900036875.1	Salmonella enterica subsp. enterica serovar Typhi	3.1.1	3135STDY5861276	Nigeria	Nigeria: Outskirts of Abuja	2013	Scaffold	2016-02-10	SAMEA2603250	summ_typhi.jsonl
+GCA_900037575.1	Salmonella enterica subsp. enterica serovar Typhi	0.0.1	3135STDY5861196	Nigeria	Nigeria: Outskirts of Abuja	2013	Scaffold	2016-02-10	SAMEA2603105	summ_typhi.jsonl
+GCA_900037585.1	Salmonella enterica subsp. enterica serovar Typhi	3.1.1	3135STDY5861197	Nigeria	Nigeria: Outskirts of Abuja	2013	Scaffold	2016-02-10	SAMEA2603107	summ_typhi.jsonl
+GCA_900038085.1	Salmonella enterica subsp. enterica serovar Typhi	2.3.1	3135STDY5861195	Nigeria	Nigeria: Outskirts of Abuja	2012	Scaffold	2016-02-10	SAMEA2603103	summ_typhi.jsonl
+GCA_900039615.1	Salmonella enterica subsp. enterica serovar Typhi	3.1.1	3135STDY5861367	Nigeria	Nigeria: Outskirts of Abuja	2013	Scaffold	2016-02-10	SAMEA2603251	summ_typhi.jsonl
+GCA_900039625.1	Salmonella enterica subsp. enterica serovar Typhi	3.1.1	3135STDY5861366	Nigeria	Nigeria: Outskirts of Abuja	2013	Scaffold	2016-02-11	SAMEA2603249	summ_typhi.jsonl
+GCA_900040035.1	Salmonella enterica subsp. enterica serovar Typhi	3.1.1	3135STDY5861201	Nigeria	Nigeria: Abuja	2011	Scaffold	2016-02-10	SAMEA2603114	summ_typhi.jsonl
+GCA_900040045.1	Salmonella enterica subsp. enterica serovar Typhi	2.3.1	3135STDY5861233	Nigeria	Nigeria: Abuja	2012	Scaffold	2016-02-11	SAMEA2603173	summ_typhi.jsonl
+GCA_900040675.1	Salmonella enterica subsp. enterica serovar Typhi	3.1.1	3135STDY5861320	Nigeria	Nigeria: Outskirts of Abuja	2013	Scaffold	2016-02-10	SAMEA2603159	summ_typhi.jsonl
+GCA_900040685.1	Salmonella enterica subsp. enterica serovar Typhi	2.2.0	3135STDY5861353	Nigeria	Nigeria: Outskirts of Abuja	2013	Scaffold	2016-02-10	SAMEA2603222	summ_typhi.jsonl
+GCA_900041435.1	Salmonella enterica subsp. enterica serovar Typhi	2.3.1	PO_132	Nigeria	Nigeria: Abuja	2009	Scaffold	2016-02-11	SAMEA2547724	summ_typhi.jsonl
+GCA_900041445.1	Salmonella enterica subsp. enterica serovar Typhi	3.1.1	PO_227	Nigeria	Nigeria: Abuja	2009	Scaffold	2016-02-11	SAMEA2547726	summ_typhi.jsonl
+GCA_900041455.1	Salmonella enterica subsp. enterica serovar Typhi	3.1.1	PO_355	Nigeria	Nigeria: Abuja	2009	Scaffold	2016-02-10	SAMEA2547731	summ_typhi.jsonl
+GCA_900041465.1	Salmonella enterica subsp. enterica serovar Typhi	3.1.1	PO_1060	Nigeria	Nigeria: Abuja	2009	Scaffold	2016-02-10	SAMEA2547750	summ_typhi.jsonl
+GCA_900041475.1	Salmonella enterica subsp. enterica serovar Typhi	3.1.1	PO_1255	Nigeria	Nigeria: Abuja	2010	Scaffold	2016-02-10	SAMEA2547765	summ_typhi.jsonl
+GCA_900041485.1	Salmonella enterica subsp. enterica serovar Typhi	3.1.1	PO_1265	Nigeria	Nigeria: Abuja	2010	Scaffold	2016-02-10	SAMEA2547767	summ_typhi.jsonl
+GCA_900041495.1	Salmonella enterica subsp. enterica serovar Typhi	3.1.1	3135STDY5861303	Nigeria	Nigeria: Outskirts of Abuja	2013	Scaffold	2016-02-10	SAMEA2603126	summ_typhi.jsonl
+GCA_900041505.1	Salmonella enterica subsp. enterica serovar Typhi	3.1.1	3135STDY5861326	Nigeria	Nigeria: Outskirts of Abuja	2013	Scaffold	2016-02-10	SAMEA2603170	summ_typhi.jsonl
+GCA_900041515.1	Salmonella enterica subsp. enterica serovar Typhi	3.1.1	3135STDY5861327	Nigeria	Nigeria: Outskirts of Abuja	2013	Scaffold	2016-02-10	SAMEA2603172	summ_typhi.jsonl
+GCA_900041525.1	Salmonella enterica subsp. enterica serovar Typhi	3.1.1	3135STDY5861328	Nigeria	Nigeria: Outskirts of Abuja	2013	Scaffold	2016-02-10	SAMEA2603174	summ_typhi.jsonl
+GCA_900041535.1	Salmonella enterica subsp. enterica serovar Typhi	3.1.1	3135STDY5861189	Nigeria	Nigeria: Outskirts of Abuja	2013	Scaffold	2016-02-11	SAMEA2603092	summ_typhi.jsonl
+GCA_900041545.1	Salmonella enterica subsp. enterica serovar Typhi	3.1.1	3135STDY5861190	Nigeria	Nigeria: Abuja	2010	Scaffold	2016-02-10	SAMEA2603094	summ_typhi.jsonl
+GCA_900041555.1	Salmonella enterica subsp. enterica serovar Typhi	4.1.0	3135STDY5861199	Nigeria	Nigeria: Abuja	2010	Scaffold	2016-02-10	SAMEA2603110	summ_typhi.jsonl
+GCA_900041565.1	Salmonella enterica subsp. enterica serovar Typhi	3.1.1	3135STDY5861202	Nigeria	Nigeria: Kano	2013	Scaffold	2016-02-10	SAMEA2603116	summ_typhi.jsonl
+GCA_900041575.1	Salmonella enterica subsp. enterica serovar Typhi	4.1.0	3135STDY5861205	Nigeria	Nigeria: Outskirts of Abuja	2013	Scaffold	2016-02-10	SAMEA2603122	summ_typhi.jsonl
+GCA_900041585.1	Salmonella enterica subsp. enterica serovar Typhi	0.0.3	3135STDY5861206	Nigeria	Nigeria: Abuja	2010	Scaffold	2016-02-10	SAMEA2603123	summ_typhi.jsonl
+GCA_900041595.1	Salmonella enterica subsp. enterica serovar Typhi	3.1.1	3135STDY5861211	Nigeria	Nigeria: Outskirts of Abuja	2012	Scaffold	2016-02-10	SAMEA2603132	summ_typhi.jsonl
+GCA_900041605.1	Salmonella enterica subsp. enterica serovar Typhi	3.1.1	3135STDY5861217	Nigeria	Nigeria: Abuja	2012	Scaffold	2016-02-10	SAMEA2603143	summ_typhi.jsonl
+GCA_900041615.1	Salmonella enterica subsp. enterica serovar Typhi	4.1.0	3135STDY5861222	Nigeria	Nigeria: Abuja	2010	Scaffold	2016-02-10	SAMEA2603153	summ_typhi.jsonl
+GCA_900041625.1	Salmonella enterica subsp. enterica serovar Typhi	3.1.1	3135STDY5861235	Nigeria	Nigeria: Outskirts of Abuja	2012	Scaffold	2016-02-10	SAMEA2603177	summ_typhi.jsonl
+GCA_900041635.1	Salmonella enterica subsp. enterica serovar Typhi	3.1.1	3135STDY5861237	Nigeria	Nigeria: Outskirts of Abuja	2013	Scaffold	2016-02-10	SAMEA2603181	summ_typhi.jsonl
+GCA_900041645.1	Salmonella enterica subsp. enterica serovar Typhi	0.0.3	3135STDY5861239	Nigeria	Nigeria: Abuja	2010	Scaffold	2016-02-10	SAMEA2603184	summ_typhi.jsonl
+GCA_900041655.1	Salmonella enterica subsp. enterica serovar Typhi	0.0.1	3135STDY5861244	Nigeria	Nigeria: Outskirts of Abuja	2013	Scaffold	2016-02-10	SAMEA2603193	summ_typhi.jsonl
+GCA_900042405.1	Salmonella enterica subsp. enterica serovar Typhi	3.1.1	PO_575	Nigeria	Nigeria: Abuja	2009	Scaffold	2016-02-10	SAMEA2547737	summ_typhi.jsonl
+GCA_900042415.1	Salmonella enterica subsp. enterica serovar Typhi	0.0.3	PO_601	Nigeria	Nigeria: Abuja	2009	Scaffold	2016-02-10	SAMEA2547739	summ_typhi.jsonl
+GCA_900042425.1	Salmonella enterica subsp. enterica serovar Typhi	3.1.1	PO_187	Nigeria	Nigeria: Abuja	2009	Scaffold	2016-02-11	SAMEA2547725	summ_typhi.jsonl
+GCA_900042435.1	Salmonella enterica subsp. enterica serovar Typhi	4.1.0	PO_260	Nigeria	Nigeria: Abuja	2009	Scaffold	2016-02-10	SAMEA2547727	summ_typhi.jsonl
+GCA_900042445.1	Salmonella enterica subsp. enterica serovar Typhi	3.1.1	PO_293	Nigeria	Nigeria: Abuja	2009	Scaffold	2016-02-11	SAMEA2547729	summ_typhi.jsonl
+GCA_900042455.1	Salmonella enterica subsp. enterica serovar Typhi	3.1.1	3135STDY5861226	Nigeria	Nigeria: Kano	2013	Scaffold	2016-02-10	SAMEA2603160	summ_typhi.jsonl
+GCA_900043515.1	Salmonella enterica subsp. enterica serovar Typhi	4.1.0	3135STDY5861246	Nigeria	Nigeria: Abuja	2010	Scaffold	2016-02-10	SAMEA2603198	summ_typhi.jsonl
+GCA_900043525.1	Salmonella enterica subsp. enterica serovar Typhi	3.1.1	3135STDY5861252	Nigeria	Nigeria: Outskirts of Abuja	2013	Scaffold	2016-02-10	SAMEA2603208	summ_typhi.jsonl
+GCA_900043535.1	Salmonella enterica subsp. enterica serovar Typhi	2.3.1	3135STDY5861273	Nigeria	Nigeria: Abuja	2012	Scaffold	2016-02-11	SAMEA2603245	summ_typhi.jsonl
+GCA_900044085.1	Salmonella enterica subsp. enterica serovar Typhi	3.1.1	3135STDY5861259	Nigeria	Nigeria: Outskirts of Abuja	2013	Scaffold	2016-02-11	SAMEA2603221	summ_typhi.jsonl
+GCA_900044305.1	Salmonella enterica subsp. enterica serovar Typhi	2.3.1	3135STDY5861241	Nigeria	Nigeria: Abuja	2012	Scaffold	2016-02-11	SAMEA2603188	summ_typhi.jsonl
+GCA_900044315.1	Salmonella enterica subsp. enterica serovar Typhi	3.1.1	3135STDY5861242	Nigeria	Nigeria: Kano	2013	Scaffold	2016-02-10	SAMEA2603190	summ_typhi.jsonl
+GCA_900044745.1	Salmonella enterica subsp. enterica serovar Typhi	0.0.3	PO_1256	Nigeria	Nigeria: Abuja	2011	Scaffold	2016-02-10	SAMEA2547766	summ_typhi.jsonl
+GCA_900044755.1	Salmonella enterica subsp. enterica serovar Typhi	3.1.1	3135STDY5861322	Nigeria	Nigeria: Outskirts of Abuja	2013	Scaffold	2016-02-11	SAMEA2603163	summ_typhi.jsonl
+GCA_900044765.1	Salmonella enterica subsp. enterica serovar Typhi	3.1.1	3135STDY5861264	Nigeria	Nigeria: Abuja	2011	Scaffold	2016-02-10	SAMEA2603230	summ_typhi.jsonl
+GCA_900045405.1	Salmonella enterica subsp. enterica serovar Typhi	3.1.1	3135STDY5861286	Nigeria	Nigeria: Outskirts of Abuja	2013	Scaffold	2016-02-10	SAMEA2603093	summ_typhi.jsonl
+GCA_900045415.1	Salmonella enterica subsp. enterica serovar Typhi	2.2.0	3135STDY5861287	Nigeria	Nigeria: Outskirts of Abuja	2013	Scaffold	2016-02-10	SAMEA2603096	summ_typhi.jsonl
+GCA_900045425.1	Salmonella enterica subsp. enterica serovar Typhi	3.1.1	3135STDY5861282	Nigeria	Nigeria: Outskirts of Abuja	2013	Scaffold	2016-02-10	SAMEA2603085	summ_typhi.jsonl
+GCA_900045435.1	Salmonella enterica subsp. enterica serovar Typhi	3.1.1	3135STDY5861330	Nigeria	Nigeria: Outskirts of Abuja	2013	Scaffold	2016-02-10	SAMEA2603178	summ_typhi.jsonl
+GCA_900045445.1	Salmonella enterica subsp. enterica serovar Typhi	2.3.2	3135STDY5861334	Nigeria	Nigeria: Outskirts of Abuja	2013	Scaffold	2016-02-10	SAMEA2603185	summ_typhi.jsonl
+GCA_900045455.1	Salmonella enterica subsp. enterica serovar Typhi	3.1.1	3135STDY5861268	Nigeria	Nigeria: Outskirts of Abuja	2013	Scaffold	2016-02-10	SAMEA2603235	summ_typhi.jsonl
+GCA_900045465.1	Salmonella enterica subsp. enterica serovar Typhi	4.1.0	3135STDY5861270	Nigeria	Nigeria: Abuja	2010	Scaffold	2016-02-10	SAMEA2603239	summ_typhi.jsonl
+GCA_900046745.1	Salmonella enterica subsp. enterica serovar Typhi	3.1.1	PO_1057	Nigeria	Nigeria: Abuja	2009	Scaffold	2016-02-10	SAMEA2547749	summ_typhi.jsonl
+GCA_900046755.1	Salmonella enterica subsp. enterica serovar Typhi	3.1.1	PO_1063	Nigeria	Nigeria: Abuja	2009	Scaffold	2016-02-11	SAMEA2547751	summ_typhi.jsonl
+GCA_900046765.1	Salmonella enterica subsp. enterica serovar Typhi	3.1.1	3135STDY5861278	Nigeria	Nigeria: Outskirts of Abuja	2013	Scaffold	2016-02-10	SAMEA2603078	summ_typhi.jsonl
+GCA_900046775.1	Salmonella enterica subsp. enterica serovar Typhi	3.3.0	3135STDY5861183	Nigeria	Nigeria: Abuja	2010	Scaffold	2016-02-10	SAMEA2603079	summ_typhi.jsonl
+GCA_900046785.1	Salmonella enterica subsp. enterica serovar Typhi	3.1.1	3135STDY5861184	Nigeria	Nigeria: Abuja	2010	Scaffold	2016-02-10	SAMEA2603082	summ_typhi.jsonl
+GCA_900047075.1	Salmonella enterica subsp. enterica serovar Typhi	2.3.1	PO_107	Nigeria	Nigeria: Abuja	2009	Scaffold	2016-02-11	SAMEA2547723	summ_typhi.jsonl
+GCA_900047085.1	Salmonella enterica subsp. enterica serovar Typhi	3.1.1	PO_351	Nigeria	Nigeria: Abuja	2009	Scaffold	2016-02-11	SAMEA2547730	summ_typhi.jsonl
+GCA_900047095.1	Salmonella enterica subsp. enterica serovar Typhi	3.1.1	PO_812	Nigeria	Nigeria: Abuja	2009	Scaffold	2016-02-11	SAMEA2547746	summ_typhi.jsonl
+GCA_900047105.1	Salmonella enterica subsp. enterica serovar Typhi	3.1.1	PO_1098	Nigeria	Nigeria: Abuja	2010	Scaffold	2016-02-11	SAMEA2547753	summ_typhi.jsonl
+GCA_900047115.1	Salmonella enterica subsp. enterica serovar Typhi	0.0.3	3135STDY5861198	Nigeria	Nigeria: Abuja	2010	Scaffold	2016-02-10	SAMEA2603108	summ_typhi.jsonl
+GCA_900047125.1	Salmonella enterica subsp. enterica serovar Typhi	3.1.1	3135STDY5861236	Nigeria	Nigeria: Outskirts of Abuja	2013	Scaffold	2016-02-11	SAMEA2603179	summ_typhi.jsonl
+GCA_900048065.1	Salmonella enterica subsp. enterica serovar Typhi	3.1.1	3135STDY5861338	Nigeria	Nigeria: Outskirts of Abuja	2013	Scaffold	2016-02-10	SAMEA2603194	summ_typhi.jsonl
+GCA_900048075.1	Salmonella enterica subsp. enterica serovar Typhi	3.1.1	3135STDY5861216	Nigeria	Nigeria: Abuja	2010	Scaffold	2016-02-10	SAMEA2603141	summ_typhi.jsonl
+GCA_007910485.1	Salmonella enterica subsp. enterica serovar Typhi str. CFSAN000626	Typhi	CFSAN000626	Senegal	Senegal	1988	Contig	2019-08-08	SAMN01933167	summ_typhi.jsonl
+GCA_007676285.1	Salmonella enterica subsp. enterica serovar Typhi str. CFSAN000628	Typhi	CFSAN000628	Senegal	Senegal	1988	Contig	2019-07-30	SAMN01933168	summ_typhi.jsonl
+GCF_000180235.1	Salmonella enterica subsp. enterica serovar Typhi str. E01-6750	Typhi	E01-6750	Senegal	Senegal		Contig	2008-05-14	SAMEA2272534	summ_typhi.jsonl
+GCA_000180235.1	Salmonella enterica subsp. enterica serovar Typhi str. E01-6750	Typhi	E01-6750	Senegal	Senegal		Contig	2008-05-14	SAMEA2272534	summ_typhi.jsonl
+GCA_011240915.1	Salmonella enterica subsp. enterica serovar Paratyphi A	Paratyphi A	A6043	Sierra Leone	Sierra Leone	2008	Contig	2020-03-12	SAMEA2820708	summ_paraA.jsonl
+GCA_011258535.1	Salmonella enterica subsp. enterica serovar Paratyphi A	Paratyphi A	A5946	Gambia	Gambia	2007	Contig	2020-03-13	SAMEA2820707	summ_paraA.jsonl
+GCA_011351325.1	Salmonella enterica subsp. enterica serovar Paratyphi A	Paratyphi A	A5920	Ghana	Ghana	2007	Contig	2020-03-16	SAMEA2820705	summ_paraA.jsonl
+GCF_009729895.1	Salmonella enterica		FDAARGOS_710	Nigeria	Nigeria: Ibadan	missing	Complete Genome	2019-12-05	SAMN11056425	salmonella_complete_summary.jsonl
+GCF_009729915.1	Salmonella enterica		FDAARGOS_708	Nigeria	Nigeria: Ibadan	missing	Complete Genome	2019-12-05	SAMN11056423	salmonella_complete_summary.jsonl
+GCF_009729935.1	Salmonella enterica		FDAARGOS_707	Nigeria	Nigeria: Ibadan	missing	Complete Genome	2019-12-05	SAMN11056422	salmonella_complete_summary.jsonl
+GCF_009729955.1	Salmonella enterica		FDAARGOS_688	Nigeria	Nigeria: Ibadan	missing	Complete Genome	2019-12-05	SAMN11056403	salmonella_complete_summary.jsonl
+GCF_009729975.1	Salmonella enterica		FDAARGOS_687	Nigeria	Nigeria: Ibadan	missing	Complete Genome	2019-12-05	SAMN11056402	salmonella_complete_summary.jsonl
+GCF_009730015.1	Salmonella enterica		FDAARGOS_712	Nigeria	Nigeria: Ibadan	missing	Complete Genome	2019-12-05	SAMN11056427	salmonella_complete_summary.jsonl
+GCA_009729895.1	Salmonella enterica		FDAARGOS_710	Nigeria	Nigeria: Ibadan	missing	Complete Genome	2019-12-05	SAMN11056425	salmonella_complete_summary.jsonl
+GCA_009729915.1	Salmonella enterica		FDAARGOS_708	Nigeria	Nigeria: Ibadan	missing	Complete Genome	2019-12-05	SAMN11056423	salmonella_complete_summary.jsonl
+GCA_009729935.1	Salmonella enterica		FDAARGOS_707	Nigeria	Nigeria: Ibadan	missing	Complete Genome	2019-12-05	SAMN11056422	salmonella_complete_summary.jsonl
+GCA_009729955.1	Salmonella enterica		FDAARGOS_688	Nigeria	Nigeria: Ibadan	missing	Complete Genome	2019-12-05	SAMN11056403	salmonella_complete_summary.jsonl
+GCA_009729975.1	Salmonella enterica		FDAARGOS_687	Nigeria	Nigeria: Ibadan	missing	Complete Genome	2019-12-05	SAMN11056402	salmonella_complete_summary.jsonl
+GCA_009730015.1	Salmonella enterica		FDAARGOS_712	Nigeria	Nigeria: Ibadan	missing	Complete Genome	2019-12-05	SAMN11056427	salmonella_complete_summary.jsonl
+GCA_056591235.1	Salmonella enterica		883a-fm-FBD01108	Niger	Niger	2017	Complete Genome	2026-04-05	SAMN52659617	salmonella_complete_summary.jsonl
+GCA_987113805.1	Salmonella enterica	Morningside	YIR_S407	Mali	Mali	2021/2023	Complete Genome	2026-07-19	SAMEA123134456	salmonella_complete_summary.jsonl
+GCA_987113925.1	Salmonella enterica	Schwarzengrund	YIR_S364	Mali	Mali	2021/2023	Complete Genome	2026-07-19	SAMEA123134455	salmonella_complete_summary.jsonl
+GCA_987113935.1	Salmonella enterica	Llandoff	YIR_S505	Mali	Mali	2021/2023	Complete Genome	2026-07-19	SAMEA123134461	salmonella_complete_summary.jsonl
+GCA_987113955.1	Salmonella enterica	Gueletapee	YIR_S514	Mali	Mali	2021/2023	Complete Genome	2026-07-19	SAMEA123134462	salmonella_complete_summary.jsonl
+GCF_022670835.1	Salmonella enterica subsp. enterica serovar Abeokuta	Abeokuta	OG19FER4	Nigeria	Nigeria: Abeokuta North	2012-02-13	Complete Genome	2022-03-22	SAMN26674805	salmonella_complete_summary.jsonl
+GCA_022670835.1	Salmonella enterica subsp. enterica serovar Abeokuta	Abeokuta	OG19FER4	Nigeria	Nigeria: Abeokuta North	2012-02-13	Complete Genome	2022-03-22	SAMN26674805	salmonella_complete_summary.jsonl
+GCA_056591295.1	Salmonella enterica subsp. enterica serovar Adelaide	Adelaide	1354b-fm-FBD01108	Niger	Niger	2017	Complete Genome	2026-04-05	SAMN52659613	salmonella_complete_summary.jsonl
+GCF_002265865.2	Salmonella enterica subsp. enterica serovar Corvallis	Carno	CFSAN059903	Nigeria	Nigeria	2011	Complete Genome	2021-06-07	SAMN07163935	salmonella_complete_summary.jsonl
+GCA_002265865.2	Salmonella enterica subsp. enterica serovar Corvallis	Carno	CFSAN059903	Nigeria	Nigeria	2011	Complete Genome	2021-06-07	SAMN07163935	salmonella_complete_summary.jsonl
+GCF_002266085.2	Salmonella enterica subsp. enterica serovar Dublin	Dublin	CFSAN059898	Nigeria	Nigeria	2012	Complete Genome	2021-06-07	SAMN07163940	salmonella_complete_summary.jsonl
+GCA_002266085.2	Salmonella enterica subsp. enterica serovar Dublin	Dublin	CFSAN059898	Nigeria	Nigeria	2012	Complete Genome	2021-06-07	SAMN07163940	salmonella_complete_summary.jsonl
+GCF_002266205.2	Salmonella enterica subsp. enterica serovar Eastbourne	Eastbourne	CFSAN059883	Nigeria	Nigeria	2012	Complete Genome	2021-06-07	SAMN07163931	salmonella_complete_summary.jsonl
+GCA_002266205.2	Salmonella enterica subsp. enterica serovar Eastbourne	Eastbourne	CFSAN059883	Nigeria	Nigeria	2012	Complete Genome	2021-06-07	SAMN07163931	salmonella_complete_summary.jsonl
+GCF_060434885.1	Salmonella enterica subsp. enterica serovar Nima	Nima	TVK	Senegal	Senegal: Kedougou, Segou	2024	Complete Genome	2026-08-26	SAMN53882685	salmonella_complete_summary.jsonl
+GCA_060434885.1	Salmonella enterica subsp. enterica serovar Nima	Nima	TVK	Senegal	Senegal: Kedougou, Segou	2024	Complete Genome	2026-08-25	SAMN53882685	salmonella_complete_summary.jsonl
+GCF_002266325.2	Salmonella enterica subsp. enterica serovar Stanleyville	Dublin	CFSAN059881	Nigeria	Nigeria	2012	Complete Genome	2021-06-07	SAMN07163933	salmonella_complete_summary.jsonl
+GCA_002266325.2	Salmonella enterica subsp. enterica serovar Stanleyville	Dublin	CFSAN059881	Nigeria	Nigeria	2012	Complete Genome	2021-06-07	SAMN07163933	salmonella_complete_summary.jsonl

@@ -1,0 +1,9 @@
+antigen,hit,pident,aln_len,qcov,evalue,bitscore,stitle,proteome
+yncE_full,tr|A6T9R8|A6T9R8_KLEP7,72.5,353,100,1.87e-175,488,tr|A6T9R8|A6T9R8_KLEP7 Receptor OS=Klebsiella pneumoniae subsp. pneumoniae (strain ATCC 700721 / MGH 78578) OX=272620 GN=yncE PE=4 SV=1,Kpneumoniae
+yncE_full,WP_000550636.1,99.7,353,100,6.179999999999999e-249,674,WP_000550636.1 MULTISPECIES: YncE family protein [Salmonella],SEnt_P125109
+yncE_full,sp|Q8ZPD6|YNCE_SALTY,99.7,353,100,6.6e-249,674,sp|Q8ZPD6|YNCE_SALTY Uncharacterized protein YncE OS=Salmonella typhimurium (strain LT2 / SGSC1412 / ATCC 700720) OX=99287 GN=yncE PE=3 SV=1,STm_LT2
+yncE_full,sp|P76116|YNCE_ECOLI,84.1,353,100,9.989999999999999e-207,567,sp|P76116|YNCE_ECOLI Uncharacterized protein YncE OS=Escherichia coli (strain K12) OX=83333 GN=yncE PE=1 SV=1,Ecoli_K12
+hlyE_full,sp|P77335|HLYE_ECOLI,91.1,303,100,2.36e-196,537,"sp|P77335|HLYE_ECOLI Hemolysin E, chromosomal OS=Escherichia coli (strain K12) OX=83333 GN=hlyE PE=1 SV=4",Ecoli_K12
+yncE_full,WP_000550643.1,99.4,353,100,1.6800000000000001e-248,673,WP_000550643.1 MULTISPECIES: YncE family protein [Salmonella],SParatyphiA_9150
+hlyE_full,WP_016505335.1,97.4,303,100,2.34e-207,565,WP_016505335.1 MULTISPECIES: hemolysin HlyE [Salmonella],SParatyphiA_9150
+cdtB_full,WP_011233072.1,99.3,269,100,1.86e-196,534,WP_011233072.1 MULTISPECIES: cytolethal distending toxin S-CDT [Salmonella],SParatyphiA_9150

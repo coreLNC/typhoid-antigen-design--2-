@@ -1,0 +1,29 @@
+antigenic_formula,cgmlst_ST,cgmlst_distance,cgmlst_found_loci,cgmlst_genome_match,cgmlst_matching_alleles,cgmlst_subspecies,genome,h1,h2,o_antigen,serogroup,serovar,serovar_antigen,serovar_cgmlst
+-:d:-,3175009173.0,0.7454545454545455,330,2014-SEQ-1330,84,enterica,GCA_056591235.1,d,-,-,E1,I E1:d:-,I E1:d:-,Vleuten
+"-:f,g:-",4055916243.0,0.3939393939393939,330,17-6007,200,enterica,GCA_056591295.1,"f,g",-,-,O,Adelaide|Agodi,Adelaide|Agodi,Ealing
+"30:c:e,n,z15",858333696.0,0.6606060606060606,330,SRR1958263,112,enterica,GCA_987113805.1,c,"e,n,z15",30,N,Morningside,Morningside,Kimuenza
+"1,4,12,27:d:1,7",3552503501.0,0.13030303030303025,330,17-7748,287,enterica,GCA_987113925.1,d,"1,7","1,4,12,27",B,Schwarzengrund,Schwarzengrund,Schwarzengrund
+"3,{10}{15}:z29:-",1485158232.0,0.793939393939394,330,SRR1548420,68,enterica,GCA_987113935.1,z29,-,"3,{10}{15}",E1,Jedburgh,Jedburgh,Vinohrady
+"-:g,m,s:-",2530486681.0,0.2909090909090909,330,SRR3173549,234,enterica,GCA_987113955.1,"g,m,s",-,-,D1,Nitra|Gallinarum|Pullorum|Berta|Enteritidis|Blegdam|Gueuletapee|Naestved|Rostock|Hillingdon,Nitra|Gallinarum|Pullorum|Berta|Enteritidis|Blegdam|Gueuletapee|Naestved|Rostock|Hillingdon,Durban
+60:r:z,,0.0060606060606061,329,SRR1956781,328,diarizonae,GCF_001628755.1,r,z,60,O:60,IIIb 60:r:z,IIIb 60:r:z,IIIb 60:r:z
+"8,20:z4,z23:-",2352627517.0,0.5454545454545454,330,17-7462,150,enterica,GCF_002265865.2,"z4,z23",-,"8,20",C2-C3,Corvallis,Chailey|Corvallis,Corvallis
+"1,9,12[Vi]:g,p:-",4087331996.0,0.051515151515151514,330,ERR1010029,313,enterica,GCF_002266085.2,"g,p",-,"1,9,12[Vi]",D1,Dublin,Kiel|Dublin,Dublin
+"1,9,12:e,h:1,5",1473508556.0,0.030303030303030276,330,SRR1958085,320,enterica,GCF_002266205.2,"e,h","1,5","1,9,12",D1,Eastbourne,Bournemouth|Eastbourne|Bergedorf|Waedenswil,Eastbourne
+"1,4,[5],12,[27]:z4,z23:1,2",4276177999.0,0.033333333333333326,330,SRR1643080,319,enterica,GCF_002266325.2,"z4,z23","1,2","1,4,[5],12,[27]",B,Stanleyville,Stanleyville,Stanleyville
+"1,4,12:z:1,7",3547970847.0,0.030303030303030276,330,SRR1164595,320,enterica,GCF_006517075.1,z,"1,7","1,4,12",B,Indiana,Indiana,Indiana
+"3,{10}{15}{15,34}:l,v:1,7",3065899249.0,0.018181818181818188,330,SRR1969453,324,enterica,GCF_009729895.1,"l,v","1,7","3,{10}{15}{15,34}",E1,Give,Give|Joal,Give
+"3,{10}{15}{15,34}:b:1,5",1107994646.0,0.036363636363636376,330,SRR1959491,318,enterica,GCF_009729915.1,b,"1,5","3,{10}{15}{15,34}",E1,Butantan,Kalina|Butantan,Butantan
+"1,13,22:z:1,6",3433282026.0,0.0060606060606061,330,SRR1966439,328,enterica,GCF_009729935.1,z,"1,6","1,13,22",G,Poona,Poona|Farmsen,Poona
+"28:a:1,6",2269910031.0,0.6272727272727272,330,SRR1965632,123,enterica,GCF_009729955.1,a,"1,6",28,M,Dakar,Dakar,Marseille
+"1,4,[5],12:i:-",4122405741.0,0.030303030303030276,330,ERR1010172,320,enterica,GCF_009729975.1,i,-,"1,4,[5],12",B,"I 1,4,[5],12:i:-","I 1,4,[5],12:i:-",Typhimurium
+"9,46:g,s,t:-",2594265970.0,0.7181818181818183,330,SRR3049376,93,enterica,GCF_009730015.1,"g,s,t",-,"9,46",D1,Gateshead,Gateshead,Malstatt
+"1,4,12:z:1,7",2552578951.0,0.024242424242424288,330,SRR1164595,322,enterica,GCF_012052605.1,z,"1,7","1,4,12",B,Indiana,Indiana,Indiana
+-:d:z6,4191194927.0,0.7424242424242424,330,SRR1643101,85,enterica,GCF_022670835.1,d,z6,-,N,I N:d:z6,I N:d:z6,Monschaui
+"1,4,12,27:d:1,7",268379620.0,0.009090909090909038,330,17-7461,327,enterica,GCF_030505955.1,d,"1,7","1,4,12,27",B,Schwarzengrund,Schwarzengrund,Schwarzengrund
+"4,12:c:1,6",2285858768.0,0.7090909090909091,330,SRR2016687,96,enterica,GCF_034447935.1,c,"1,6","4,12",B,Abortusovis,Abortusovis,Abortusovis
+"1,9,12:-:-",768646264.0,0.021212121212121238,330,2016-SEQ-0346,323,enterica,GCF_045004185.1,-,-,"1,9,12",D1,Enteritidis,Paratyphi A|Nitra|Kiel|Gallinarum|Pullorum|Berta|Typhi|Enteritidis|Blegdam|Gueuletapee|Dublin|Naestved|Rostock|Moscow|Antarctica|Rosenberg|Pensacola|Elomrane|Wangata|Natal|Wernigerode|Hillingdon|Gateshead|Ackwepe|Sangalkam|Ouakam|Fresno|Ekotedo|Ngaparou|Wuppertal,Enteritidis
+"1,9,12:-:-",3047283905.0,0.024242424242424288,330,2016-SEQ-0346,322,enterica,GCF_045004215.1,-,-,"1,9,12",D1,Enteritidis,Paratyphi A|Nitra|Kiel|Gallinarum|Pullorum|Berta|Typhi|Enteritidis|Blegdam|Gueuletapee|Dublin|Naestved|Rostock|Moscow|Antarctica|Rosenberg|Pensacola|Elomrane|Wangata|Natal|Wernigerode|Hillingdon|Gateshead|Ackwepe|Sangalkam|Ouakam|Fresno|Ekotedo|Ngaparou|Wuppertal,Enteritidis
+"1,9,12:-:-",346959984.0,0.021212121212121238,330,2016-SEQ-0346,323,enterica,GCF_045004235.1,-,-,"1,9,12",D1,Enteritidis,Paratyphi A|Nitra|Kiel|Gallinarum|Pullorum|Berta|Typhi|Enteritidis|Blegdam|Gueuletapee|Dublin|Naestved|Rostock|Moscow|Antarctica|Rosenberg|Pensacola|Elomrane|Wangata|Natal|Wernigerode|Hillingdon|Gateshead|Ackwepe|Sangalkam|Ouakam|Fresno|Ekotedo|Ngaparou|Wuppertal,Enteritidis
+"1,9,12:-:-",539104125.0,0.027272727272727226,330,2016-SEQ-0346,321,enterica,GCF_045004255.1,-,-,"1,9,12",D1,Enteritidis,Paratyphi A|Nitra|Kiel|Gallinarum|Pullorum|Berta|Typhi|Enteritidis|Blegdam|Gueuletapee|Dublin|Naestved|Rostock|Moscow|Antarctica|Rosenberg|Pensacola|Elomrane|Wangata|Natal|Wernigerode|Hillingdon|Gateshead|Ackwepe|Sangalkam|Ouakam|Fresno|Ekotedo|Ngaparou|Wuppertal,Enteritidis
+"1,9,12:-:-",2031659238.0,0.024242424242424288,330,2016-SEQ-0346,322,enterica,GCF_045037955.1,-,-,"1,9,12",D1,Enteritidis,Paratyphi A|Nitra|Kiel|Gallinarum|Pullorum|Berta|Typhi|Enteritidis|Blegdam|Gueuletapee|Dublin|Naestved|Rostock|Moscow|Antarctica|Rosenberg|Pensacola|Elomrane|Wangata|Natal|Wernigerode|Hillingdon|Gateshead|Ackwepe|Sangalkam|Ouakam|Fresno|Ekotedo|Ngaparou|Wuppertal,Enteritidis
+"-:y:1,5",951677530.0,0.27575757575757576,330,17-2173,239,enterica,GCF_060434885.1,y,"1,5",-,M,Oskarshamn|Nima,Oskarshamn|Nima,Cotham

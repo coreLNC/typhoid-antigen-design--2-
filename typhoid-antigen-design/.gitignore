@@ -1,0 +1,18 @@
+# large or regenerable inputs (see README: Data provenance)
+*.jsonl
+*.fna
+*.fna.gz
+*.dmnd
+data/proteomes/
+data/genomes/
+results/diamond/
+node_modules/
+__pycache__/
+*.pyc
+.DS_Store
+.ipynb_checkpoints/
+# credentials / local config
+.env
+*.token
+work/
+structures/2wcd.pdb
